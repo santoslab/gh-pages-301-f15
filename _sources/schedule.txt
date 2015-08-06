@@ -1,0 +1,125 @@
+.. _schedule:
+
+Schedule
+########
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Fall 2015</h3>
+
+----
+
+**Lecture:** T U 11:00am - 12:15pm, Kedzie Hall, K 004
+
+----
+
+.. list-table::
+   :widths: 20 30 50
+   :header-rows: 1
+   
+   * - Week. Day: Date
+     - Lecture
+     - Remarks
+   * - 1. T: Aug 25
+     - `Course Administration`
+       & :ref:`introduction` 
+     - 
+   * - 1. U: Aug 27
+     - 
+     - 
+   * - 2. T: Sep 1
+     - 
+     - 
+   * - 2. U: Sep 3
+     - 
+     - 
+   * - 3. T: Sep 8
+     - 
+     -  
+   * - 3. U: Sep 10
+     - 
+     - 
+   * - 4. T: Sep 15
+     - 
+     - 
+   * - 4. U: Sep 17
+     - 
+     - 
+   * - 5. T: Sep 22
+     - 
+     - 
+   * - 5. U: Sep 24
+     - 
+     - 
+   * - 6. T: Sep 29
+     - 
+     - 
+   * - 6. U: Oct 1
+     - 
+     - 
+   * - 7. T: Oct 6
+     - 
+     -
+   * - 7. U: Oct 8
+     - 
+     - 
+   * - 8. T: Oct 13
+     - 
+     - 
+   * - 8. U: Oct 15
+     - 
+     - 
+   * - 9. T: Oct 20
+     - 
+     - 
+   * - 9. U: Oct 22
+     - 
+     - 
+   * - 10. T: Oct 27
+     - 
+     - 
+   * - 10. U: Oct 29
+     - 
+     - 
+   * - 11. T: Nov 3
+     - 
+     - 
+   * - 11. U: Nov 5
+     - 
+     - 
+   * - 12. T: Nov 10
+     - 
+     - 
+   * - 12. U: Nov 12
+     - 
+     - 
+   * - 13. T: Nov 17
+     - 
+     - 
+   * - 13. U: Nov 19
+     - 
+     - 
+   * - A. T: Nov 24
+     - *No Lecture*
+     - **Thanksgiving Break**
+   * - A. U: Nov 26
+     - *No Lecture*
+     - **Thanksgiving Break**
+   * - 14. T: Dec 1
+     - 
+     -
+   * - 14. U: Dec 3
+     - 
+     - 
+   * - 15. T: Dec 8
+     - 
+     -
+   * - 15. U: Dec 10
+     - 
+     - 
+   * - 16. U: Dec 15
+     - **Final Exam**
+     - **Time:** 9:40am - 11:30am
+   
+----
+   

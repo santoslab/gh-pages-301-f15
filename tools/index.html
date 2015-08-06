@@ -1,0 +1,236 @@
+
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Tools &mdash; CIS 301: Logical Foundations of Programming, Fall 2015</title>
+    
+    <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/bootswatch-3.1.0/journal/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/cis501.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="../_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-3.1.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-sphinx.js"></script>
+    <link rel="top" title="CIS 301: Logical Foundations of Programming, Fall 2015" href="../index.html" />
+  </head>
+  <body role="document">
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../index.html">
+          Home</a>
+        <span class="navbar-text navbar-version pull-left"><b></b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            <li class="divider-vertical"></li>
+            
+                <li><a href="../syllabus.html">Syllabus</a></li>
+                <li><a href="../schedule.html">Schedule</a></li>
+                <li><a href="../notes.html">Notes</a></li>
+                <li><a href="#">Tools</a></li>
+            
+            
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="../index.html">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"></ul>
+</li>
+              
+                <li class="dropdown">
+  <a role="button"
+     id="dLabelLocalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="#">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"
+      role="menu"
+      aria-labelledby="dLabelLocalToc"><ul>
+<li><a class="reference internal" href="#">Tools</a><ul>
+<li><a class="reference internal" href="#alloy-modeling-language-and-constraint-analyzer">Alloy Modeling Language and Constraint Analyzer</a></li>
+<li><a class="reference internal" href="#symbolic-logic-proof-checker">Symbolic-logic Proof Checker</a></li>
+<li><a class="reference internal" href="#c-code-contracts">C# Code Contracts</a></li>
+<li><a class="reference internal" href="#proof-checker-for-floyd-hoare-program-logic">Proof Checker for Floyd-Hoare Program Logic</a></li>
+<li><a class="reference internal" href="#python">Python</a></li>
+<li><a class="reference internal" href="#prolog">Prolog</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+            
+            
+              
+                
+              
+            
+            
+            
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="../search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      
+  <div class="section" id="tools">
+<span id="id1"></span><h1>Tools<a class="headerlink" href="#tools" title="Permalink to this headline">¶</a></h1>
+<h3>CIS 301: Logical Foundations of Programming, Fall 2015</h3><hr class="docutils" />
+<div class="section" id="alloy-modeling-language-and-constraint-analyzer">
+<h2>Alloy Modeling Language and Constraint Analyzer<a class="headerlink" href="#alloy-modeling-language-and-constraint-analyzer" title="Permalink to this headline">¶</a></h2>
+<p>Alloy is a language for modeling class/object-oriented structures and relations
+between those structures (in some sense, it is analogous to UML class diagrams,
+but it is semantically cleaner).
+One can use Alloy to abstractly model a variety of systems.
+Alloy includes a constraint language based on predicate logic that can be used
+to specify properties/constraints on Alloy structures.
+Alloy&#8217;s Constraint Analyzer can automatically analyze constraints to, e.g.,
+find example structures that satisfy the constraints or determine if
+the constraints hold for all possible structures that match the given class
+declarations.</p>
+<p>We will use Alloy to help learn the meaning of propositional and predicate
+logic.
+In particular, we will focus on gaining a strong intuitive understanding of the
+meaning of propositional connectives (and, or, not, implies) and universal and
+existential quantifiers from predicate logic.</p>
+<ul class="simple">
+<li><a class="reference external" href="http://alloy.mit.edu/alloy/">Web page</a></li>
+<li><a class="reference external" href="http://alloy.mit.edu/alloy/tutorials/online/">Tutorial</a></li>
+</ul>
+</div>
+<div class="section" id="symbolic-logic-proof-checker">
+<h2>Symbolic-logic Proof Checker<a class="headerlink" href="#symbolic-logic-proof-checker" title="Permalink to this headline">¶</a></h2>
+<p>When we study Chapters 5 and 6 of the on-line text,
+we will use a tool developed in-house by Mr. Brian Mulanda, Dr. Rod Howell, and
+Mr. James Thompson for checking logic proofs.
+The tool runs on top of Java.
+If you have Java installed on your computer (very likely), then you can download
+the tool to your Desktop and double-click to start it:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://drive.google.com/open?id=0B3opDhlww1AXUlJ5VkY3cDdIUWs">click here to download the natural-deduction proof-checker tool</a></li>
+<li><a class="reference external" href="https://drive.google.com/open?id=0B3opDhlww1AXUlJ5VkY3cDdIUWs">here is the tool&#8217;s user manual (pdf)</a></li>
+</ul>
+</div>
+<div class="section" id="c-code-contracts">
+<h2>C# Code Contracts<a class="headerlink" href="#c-code-contracts" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="http://www.rise4fun.com/CodeContracts">Web page</a></li>
+<li><a class="reference external" href="https://research.microsoft.com/en-us/projects/contracts/userdoc.pdf">Manual</a></li>
+</ul>
+</div>
+<div class="section" id="proof-checker-for-floyd-hoare-program-logic">
+<h2>Proof Checker for Floyd-Hoare Program Logic<a class="headerlink" href="#proof-checker-for-floyd-hoare-program-logic" title="Permalink to this headline">¶</a></h2>
+<p>We will develop correctness proofs for programs with the assistance of a checker
+tool that was written by Dr. <a class="reference external" href="http://people.cis.ksu.edu/~schmidt">David A. Schmidt</a>:</p>
+<p>The checker runs on top of Python.
+Please read <a class="reference external" href="https://www.googledrive.com/host/0B3opDhlww1AXcjZ3VXVZUnJzbTA">Installing Python</a>
+to learn how to check for Python on your machine, install it if needed, and
+later use it to develop software.
+Download the checker tool to your computer:
+<a class="reference external" href="https://drive.google.com/open?id=0B3opDhlww1AXNUgyTE1icjN1b3M">proof-checker-floyd-hoare.zip</a>
+(note: click <img alt="download-icon" src="../_images/download-icon.png" /> at the top center page toolbar to download the
+zip file).</p>
+<p>Read the following files that are contained in the zip file:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://www.googledrive.com/host/0B3opDhlww1AXckJpM3l5SEdSdVE">proof-checker-floyd-hoare/README.txt</a></li>
+<li><a class="reference external" href="https://www.googledrive.com/host/0B3opDhlww1AXVjhveTg5clhqZkE">proof-checker-floyd-hoare/howtoinstall.html</a>
+&#8211; the installation guide to learn how to install the checker</li>
+<li><a class="reference external" href="https://www.googledrive.com/host/0B3opDhlww1AXbS1YS1FIZ1NDVG8">proof-checker-floyd-hoare/howtocheck.html</a>
+&#8211; the beginner&#8217;s guide to using the checker</li>
+<li><a class="reference external" href="https://www.googledrive.com/host/0B3opDhlww1AXeHVBdDdvLXllekE">proof-checker-floyd-hoare/FORMAL DOCUMENTATION.txt</a>
+&#8211; defines precisely the language understood by the checker; it also includes
+a series of progressively more challenging examples that the checker will
+analyze and approve.</li>
+</ul>
+</div>
+<div class="section" id="python">
+<h2>Python<a class="headerlink" href="#python" title="Permalink to this headline">¶</a></h2>
+<p>Python is a dynamically-typed and structured language rather than a static one
+like Java or C#.
+It naturally supports recursive programming rather than iterative.
+It is relatively easy to learn;
+for this reason, we will do at least one exercise with it.</p>
+<p>If you have never programmed in Python before, you can relax —- it looks like
+Visual Basic or Javascript or any other simple assignment/imperative language.
+However, it has powerful dynamic data structures (lists and dictionaries).
+Here are some samples of Python code.
+(Here is a zipped folder of the samples.)
+Try these with your implementation.</p>
+<p>Some other materials:</p>
+<ul class="simple">
+<li>a <a class="reference external" href="http://www.cis.ksu.edu/~schmidt/200s08/Lectures/999.summary.html">terse language summary</a>
+and <a class="reference external" href="http://people.cis.ksu.edu/~schmidt/301s12/pythonstrucs.html">terse notes on lists and dictionaries</a>,
+the two most important data structures in Python.
+Here is a <a class="reference external" href="http://www.cis.ksu.edu/~schmidt/200s08">complete tutorial</a>,
+from CIS200.</li>
+<li>The language&#8217;s website is at <a class="reference external" href="http://www.python.org/">http://www.python.org/</a>, where you will find a
+useful library reference page.</li>
+<li>This nice on-line book, <a class="reference external" href="http://effbot.org/librarybook/">The Python Standard Libary</a>,
+shows you how to use Python to do clever systems hacking and gluing, the sort
+of stuff that is not normally taught in courses but is hugely useful in
+practice.</li>
+</ul>
+</div>
+<div class="section" id="prolog">
+<h2>Prolog<a class="headerlink" href="#prolog" title="Permalink to this headline">¶</a></h2>
+<p>At the end of the course, we will take a quick look at the Prolog programming
+language.
+There is a good, easy-to-install implementation at <a class="reference external" href="http://www.swi-prolog.org">http://www.swi-prolog.org</a>.</p>
+</div>
+</div>
+
+
+    </div>
+      
+  </div>
+</div>
+
+  </body>
+</html>

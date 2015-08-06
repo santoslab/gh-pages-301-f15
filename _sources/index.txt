@@ -1,0 +1,48 @@
+Home
+####
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Fall 2015</h3>
+
+----
+
+This course teaches the basic elements found in a formal logic including
+syntax for claims and rules for making deductions, as well as on how to 
+judge if the rules are suitable in the sense that they only lead to claims
+that match the reality of the domain that are being reasoned.
+The focus will be on formal logics for reasoning about program behavior and
+for programming directly in terms of logic.
+    
+========================  =============================================
+**Lectures**              T U 11:00am - 12:15pm, Kedzie Hall, K 004     
+**Instructor**            `Robby <http://people.cis.ksu.edu/~robby>`__,
+                          Office:       324B Nichols Hall,
+                          Office Hours: T 2-3:30pm
+                          (or by appointment; `see online calendar <http://robby.santoslab.org/calendar.html>`__),
+                          E-mail:       ``robby at k-state.edu``
+**Teaching Assistant**    Hariharan Thiagarajan,
+                          Office:       324 Nichols Hall,
+                          Office Hours: TBA (or by appointment),
+                          E-mail:       ``thari at k-state.edu``
+**Teaching Assistant**    Varun Varshney,
+                          Office:       Nichols Hall,
+                          Office Hours: TBA (or by appointment),
+                          E-mail:       TBA
+**Teaching Assistant**    Yang Xue,
+                          Office:       Nichols Hall,
+                          Office Hours: TBA (or by appointment),
+                          E-mail:       ``xueyang at k-state.edu``
+========================  =============================================
+
+----
+
+* :ref:`syllabus`
+
+* :ref:`advice` (must read!)
+
+* :ref:`schedule`
+
+* :ref:`course-notes`
+
+* :ref:`tools`

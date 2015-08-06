@@ -1,0 +1,132 @@
+.. _tools:
+
+Tools
+#####
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Fall 2015</h3>
+
+.. include:: ../def.rst
+
+.. |download-icon| image:: download-icon.png
+
+----
+   
+Alloy Modeling Language and Constraint Analyzer
+***********************************************
+
+Alloy is a language for modeling class/object-oriented structures and relations
+between those structures (in some sense, it is analogous to UML class diagrams,
+but it is semantically cleaner).
+One can use Alloy to abstractly model a variety of systems.
+Alloy includes a constraint language based on predicate logic that can be used
+to specify properties/constraints on Alloy structures.
+Alloy's Constraint Analyzer can automatically analyze constraints to, e.g.,
+find example structures that satisfy the constraints or determine if
+the constraints hold for all possible structures that match the given class
+declarations.
+
+We will use Alloy to help learn the meaning of propositional and predicate
+logic.
+In particular, we will focus on gaining a strong intuitive understanding of the
+meaning of propositional connectives (and, or, not, implies) and universal and
+existential quantifiers from predicate logic.
+
+* `Web page <http://alloy.mit.edu/alloy/>`__
+* `Tutorial <http://alloy.mit.edu/alloy/tutorials/online/>`__
+
+
+Symbolic-logic Proof Checker
+****************************
+
+When we study Chapters 5 and 6 of the on-line text,
+we will use a tool developed in-house by Mr. Brian Mulanda, Dr. Rod Howell, and
+Mr. James Thompson for checking logic proofs.
+The tool runs on top of Java.
+If you have Java installed on your computer (very likely), then you can download
+the tool to your Desktop and double-click to start it:
+
+* `click here to download the natural-deduction proof-checker tool <https://drive.google.com/open?id=0B3opDhlww1AXUlJ5VkY3cDdIUWs>`__
+
+* `here is the tool's user manual (pdf) <https://drive.google.com/open?id=0B3opDhlww1AXUlJ5VkY3cDdIUWs>`__
+
+
+C# Code Contracts
+*****************
+
+* `Web page <http://www.rise4fun.com/CodeContracts>`__
+
+* `Manual <https://research.microsoft.com/en-us/projects/contracts/userdoc.pdf>`__
+
+
+Proof Checker for Floyd-Hoare Program Logic
+*******************************************
+
+We will develop correctness proofs for programs with the assistance of a checker
+tool that was written by Dr. |David A. Schmidt|:
+
+The checker runs on top of Python. 
+Please read `Installing Python <https://www.googledrive.com/host/0B3opDhlww1AXcjZ3VXVZUnJzbTA>`__ 
+to learn how to check for Python on your machine, install it if needed, and
+later use it to develop software.
+Download the checker tool to your computer: 
+`proof-checker-floyd-hoare.zip <https://drive.google.com/open?id=0B3opDhlww1AXNUgyTE1icjN1b3M>`__
+(note: click |download-icon| at the top center page toolbar to download the 
+zip file). 
+
+Read the following files that are contained in the zip file:
+
+* `proof-checker-floyd-hoare/README.txt <https://www.googledrive.com/host/0B3opDhlww1AXckJpM3l5SEdSdVE>`__
+
+* `proof-checker-floyd-hoare/howtoinstall.html <https://www.googledrive.com/host/0B3opDhlww1AXVjhveTg5clhqZkE>`__ 
+  -- the installation guide to learn how to install the checker
+  
+* `proof-checker-floyd-hoare/howtocheck.html <https://www.googledrive.com/host/0B3opDhlww1AXbS1YS1FIZ1NDVG8>`__ 
+  -- the beginner's guide to using the checker
+
+* `proof-checker-floyd-hoare/FORMAL DOCUMENTATION.txt <https://www.googledrive.com/host/0B3opDhlww1AXeHVBdDdvLXllekE>`__ 
+  -- defines precisely the language understood by the checker; it also includes
+  a series of progressively more challenging examples that the checker will
+  analyze and approve.
+
+
+Python
+******
+
+Python is a dynamically-typed and structured language rather than a static one 
+like Java or C#.
+It naturally supports recursive programming rather than iterative.
+It is relatively easy to learn; 
+for this reason, we will do at least one exercise with it.
+
+If you have never programmed in Python before, you can relax —- it looks like
+Visual Basic or Javascript or any other simple assignment/imperative language.
+However, it has powerful dynamic data structures (lists and dictionaries).
+Here are some samples of Python code.
+(Here is a zipped folder of the samples.)
+Try these with your implementation.
+
+Some other materials:
+
+* a `terse language summary <http://www.cis.ksu.edu/~schmidt/200s08/Lectures/999.summary.html>`__ 
+  and `terse notes on lists and dictionaries <http://people.cis.ksu.edu/~schmidt/301s12/pythonstrucs.html>`__,
+  the two most important data structures in Python.
+  Here is a `complete tutorial <http://www.cis.ksu.edu/~schmidt/200s08>`__, 
+  from CIS200.
+  
+* The language's website is at http://www.python.org/, where you will find a 
+  useful library reference page.
+  
+* This nice on-line book, `The Python Standard Libary <http://effbot.org/librarybook/>`__, 
+  shows you how to use Python to do clever systems hacking and gluing, the sort
+  of stuff that is not normally taught in courses but is hugely useful in
+  practice.
+
+
+Prolog
+******
+
+At the end of the course, we will take a quick look at the Prolog programming
+language.
+There is a good, easy-to-install implementation at http://www.swi-prolog.org.

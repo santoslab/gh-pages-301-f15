@@ -1,0 +1,29 @@
+.. _course-notes:
+
+Course Notes
+############
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Fall 2015</h3>
+
+.. include:: def.rst
+
+----
+   
+.. toctree::
+   :maxdepth: 2
+   :numbered: 3
+
+   00-introduction/index.rst
+      
+---- 
+
+.. raw:: html
+
+   <p align=right><small><em>
+   These notes were adapted from 
+   <a href="http://people.cis.ksu.edu/~schmidt/301s14/Lectures/home.html">
+   David Schmidt's CIS 301, Spring 2014</a> lecture notes.
+   © Copyright 2014, David Schmidt.
+   </em></small></p>
