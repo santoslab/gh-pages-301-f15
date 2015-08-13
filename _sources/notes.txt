@@ -16,6 +16,7 @@ Course Notes
    :numbered: 3
 
    00-introduction/index.rst
+   01-circuits-truth-tables/index.rst
       
 ---- 
 
