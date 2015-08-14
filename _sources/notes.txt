@@ -17,6 +17,7 @@ Course Notes
 
    00-introduction/index.rst
    01-circuits-truth-tables/index.rst
+   02-algebra/index.rst
       
 ---- 
 
