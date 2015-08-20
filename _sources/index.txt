@@ -28,7 +28,7 @@ for programming directly in terms of logic.
 **Teaching Assistant**    Varun Varshney,
                           Office:       Nichols Hall,
                           Office Hours: TBA (or by appointment),
-                          E-mail:       TBA
+                          E-mail:       ``varshney at k-state.edu``
 **Teaching Assistant**    Yang Xue,
                           Office:       Nichols Hall,
                           Office Hours: TBA (or by appointment),

@@ -204,7 +204,7 @@ levels, we have analyzed the program and calculated in advance of execution its
 behavioral properties.
 
 
-Single-assignment Programs
+Single-Assignment Programs
 **************************
 
 The equation sets we have just studied are well behaved because there is exactly
