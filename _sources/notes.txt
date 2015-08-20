@@ -20,6 +20,7 @@ Course Notes
    02-algebra/index.rst
    03-programming-logic/index.rst
    04-functions-procedures/index.rst
+   05-loops-invariants-induction/index.rst
 
 ---- 
 
