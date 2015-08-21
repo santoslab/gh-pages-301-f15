@@ -22,17 +22,18 @@ for programming directly in terms of logic.
                           (or by appointment; `see online calendar <http://robby.santoslab.org/calendar.html>`__),
                           E-mail:       ``robby at k-state.edu``
 **Teaching Assistant**    Hariharan Thiagarajan,
-                          Office:       324 Nichols Hall,
-                          Office Hours: TBA (or by appointment),
+                          Office:       324G Nichols Hall,
+                          Office Hours: W 3-5pm (or by appointment),
                           E-mail:       ``thari at k-state.edu``
 **Teaching Assistant**    Varun Varshney,
                           Office:       Nichols Hall,
-                          Office Hours: TBA (or by appointment),
+                          Office Hours: F 3:30-5pm (or by appointment),
                           E-mail:       ``varshney at k-state.edu``
 **Teaching Assistant**    Yang Xue,
-                          Office:       Nichols Hall,
-                          Office Hours: TBA (or by appointment),
+                          Office:       16A Nichols Hall,
+                          Office Hours: M 3:30-5pm (or by appointment),
                           E-mail:       ``xueyang at k-state.edu``
+**Help E-mail**           ``help-301@santoslab.org``                         
 ========================  =============================================
 
 ----
