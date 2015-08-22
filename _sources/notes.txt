@@ -22,6 +22,7 @@ Course Notes
    04-functions-procedures/index.rst
    05-loops-invariants-induction/index.rst
    06-propositional-logic/index.rst
+   07-predicate-logic/index.rst
 
 ---- 
 

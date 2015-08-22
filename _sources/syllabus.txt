@@ -87,7 +87,7 @@ Instructor
 
 `Robby <http://people.cis.ksu.edu/~robby>`__,
 Office:       324B Nichols Hall,
-Office Hours: 2-3:30pm (or by appointment on T-W-U),
+Office Hours: 2-3:30pm (or by appointment on T-W-U afternoon),
 E-mail:       ``robby at k-state.edu``
 
 
@@ -158,7 +158,7 @@ strikes).
 Attendance Policy
 *****************
 
-In general, there will be NO make-up exams!
+In general, there will be NO make-up exams and class exercises!
 Special consideration will be given in only exceptional circumstances.
 Exceptional circumstances are generally limited to:
 
@@ -168,7 +168,7 @@ Exceptional circumstances are generally limited to:
 * Non-emergencies: certified excused absences for official university activities.
 
 If you believe you qualify for exceptional treatment, you must notify the
-instructor prior to the date of the exam to be missed.
+instructor prior to the date of the exam or exercise to be missed.
 
 
 Statement Regarding Academic Honesty

@@ -19,7 +19,8 @@ for programming directly in terms of logic.
 **Instructor**            `Robby <http://people.cis.ksu.edu/~robby>`__,
                           Office:       324B Nichols Hall,
                           Office Hours: T 2-3:30pm
-                          (or by appointment; `see online calendar <http://robby.santoslab.org/calendar.html>`__),
+                          (or by appointment on T-W-U afternoon;
+                          `see online calendar <http://robby.santoslab.org/calendar.html>`__),
                           E-mail:       ``robby at k-state.edu``
 **Teaching Assistant**    Hariharan Thiagarajan,
                           Office:       324G Nichols Hall,

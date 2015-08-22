@@ -1618,6 +1618,7 @@ loop stops.
 We won't develop this further....
 
 
+.. _induction:
 
 An Introduction to Mathematical Induction
 *****************************************

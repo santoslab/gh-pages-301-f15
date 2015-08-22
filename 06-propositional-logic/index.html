@@ -251,7 +251,7 @@ and <code class="docutils literal"><span class="pre">&gt;</span></code>.
 The operators,
 <code class="docutils literal"><span class="pre">^</span></code> (math: <script type="math/tex">\wedge</script></script>),
 <code class="docutils literal"><span class="pre">v</span></code> (math: <script type="math/tex">\vee</script></script>),
-<code class="docutils literal"><span class="pre">--&gt;</span></code> (math: <script type="math/tex">\Rightarrow</script></script>),
+<code class="docutils literal"><span class="pre">--&gt;</span></code> (math: <script type="math/tex">\Longrightarrow</script></script>),
 <code class="docutils literal"><span class="pre">~</span></code> (math: <script type="math/tex">\neg</script></script>),
 are called <em>propositional connectives</em> because they connect together
 propositions to make new propositions.
@@ -722,7 +722,7 @@ nonnegative at the end.</p>
 </div>
 <div class="section" id="implies-introduction-and-implies-elimination">
 <h2>7.5. Implies-Introduction and Implies-Elimination<a class="headerlink" href="#implies-introduction-and-implies-elimination" title="Permalink to this headline">¶</a></h2>
-<p>Remember that <code class="docutils literal"><span class="pre">--&gt;</span></code> (math: <script type="math/tex">\Rightarrow</script></script>) is a kind of &#8220;logical if-then&#8221;.
+<p>Remember that <code class="docutils literal"><span class="pre">--&gt;</span></code> (math: <script type="math/tex">\Longrightarrow</script></script>) is a kind of &#8220;logical if-then&#8221;.
 The word, &#8220;implies&#8221; has several shadings of meaning in spoken English, and there
 are multiple meanings of the word in logic.
 Here, we understand <code class="docutils literal"><span class="pre">P</span> <span class="pre">--&gt;</span> <span class="pre">Q</span></code> to assert that <code class="docutils literal"><span class="pre">P</span></code> holds knowledge sufficient
@@ -2554,38 +2554,17 @@ premise or a proved fact in the partial proof, then</p>
 <li>prove <code class="docutils literal"><span class="pre">Premises,</span> <span class="pre">P,</span> <span class="pre">Q</span> <span class="pre">|-</span> <span class="pre">R</span></code>.</li>
 </ol>
 <p>Here, the tactic is to generate new knowledge that will bring us closer to the
-goal, <code class="docutils literal"><span class="pre">R</span></code>.</p>
-<blockquote>
-<div><ol class="arabic">
-<li><dl class="first docutils">
-<dt>Premises      premise</dt>
-<dd><p class="first last">. . .</p>
-</dd>
-</dl>
-</li>
-</ol>
-<ol class="lowerroman">
-<li><dl class="first docutils">
-<dt>P &#8211;&gt; Q</dt>
-<dd><p class="first last">(fill in)</p>
-</dd>
-</dl>
-</li>
-</ol>
-<ol class="loweralpha" start="10">
-<li><p class="first">P</p>
-</li>
-<li><dl class="first docutils">
-<dt>Q             &#8211;&gt;e i,j</dt>
-<dd><p class="first last">(fill in)</p>
-</dd>
-</dl>
-</li>
-</ol>
-<ol class="loweralpha simple" start="11">
-<li>R</li>
-</ol>
-</div></blockquote>
+goal, <code class="docutils literal"><span class="pre">R</span></code>:</p>
+<div class="highlight-python"><div class="highlight"><pre>1.  Premises      premise
+       . . .
+i.  P --&gt; Q
+        (fill in)
+j.  P
+k.  Q             --&gt;e i,j
+        (fill in)
+k.  R
+</pre></div>
+</div>
 </li>
 <li><p class="first">(*) <code class="docutils literal"><span class="pre">_|_</span></code>-tactic: To prove <code class="docutils literal"><span class="pre">Premises</span> <span class="pre">|-</span> <span class="pre">Q</span></code>, if <code class="docutils literal"><span class="pre">~P</span></code> appears as a premise
 or as a proved fact in our partial proof, then</p>

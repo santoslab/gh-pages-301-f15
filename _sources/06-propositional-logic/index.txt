@@ -11,7 +11,7 @@ Course Notes --- CIS 301: Logical Foundations of Programming, Fall 2015
    </b></big></big>
    </font>
 
-.. |implies| replace:: :math:`\Rightarrow` 
+.. include:: ../def.rst
 
 .. _propositional-logic:
 
@@ -2622,7 +2622,7 @@ they should be tactically applied:
   3. prove ``Premises, P, Q |- R``.
   
   Here, the tactic is to generate new knowledge that will bring us closer to the
-  goal, ``R``.
+  goal, ``R``::
   
     1.  Premises      premise
            . . .
