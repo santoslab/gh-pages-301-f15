@@ -27,6 +27,7 @@ Schedule
    * - 1. U: Aug 27
      - * Circuits and Truth Tables
      - * Reading: :ref:`circuits`
+       * Homework #1
    * - 2. T: Sep 1
      - * Introduction to Propositional Logic (History, Motivation)
      - * Reading: Logic in Action 
@@ -44,7 +45,7 @@ Schedule
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. T: Sep 8
      - * Alloy -- Propositional Logic
-     - 
+     - * Homework #2
    * - 3. U: Sep 10
      - * Introduction to Natural Deduction
        * Natural Deduction -- And
@@ -52,12 +53,14 @@ Schedule
    * - 4. T: Sep 15
      - * Natural Deduction -- Or
      - * Reading: :ref:`propositional-logic`
+       * Homework #3
    * - 4. U: Sep 17
      - * Natural Deduction -- Implies
      - * Reading: :ref:`propositional-logic`
    * - 5. T: Sep 22
      - * Natural Deduction -- Negation
      - * Reading: :ref:`propositional-logic`
+       * Homework #4
    * - 5. U: Sep 24
      - Review
      - 
@@ -71,32 +74,34 @@ Schedule
      - * Sets and Relations
      - 
    * - 7. U: Oct 8
-     - * Alloy -- Structures and Relations
-     - 
-   * - 8. T: Oct 13
-     - * Alloy -- Relations and Operations
-     - 
-   * - 8. U: Oct 15
-     - * Alloy -- Logical Constraints
-     - 
-   * - 9. T: Oct 20
-     - * Alloy -- Airport Example (Basic)
-     - 
-   * - 9. U: Oct 22
      - * Introduction to Predicate Logic
      - * Reading: :ref:`predicate-logic`
+       * Homework #5
+   * - 8. T: Oct 13
+     - * Alloy for Predicate Logic
+     - 
+   * - 8. U: Oct 15
+     - * Alloy -- Structures and Relations
+     - 
+   * - 9. T: Oct 20
+     - * Alloy -- Relations and Operations
+     - 
+   * - 9. U: Oct 22
+     - * Alloy -- Logical Constraints
+     - 
    * - 10. T: Oct 27
+     - * Alloy -- Example (Basic)
+     - Homework #6
+   * - 10. U: Oct 29
      - * Algebra
      - * Reading: :ref:`algebra`
-   * - 10. U: Oct 29
+   * - 11. T: Nov 3
      - * Programming Logic for Assignment Statements
      - * Reading: :ref:`programming-logic` (up to Section 4.1)
-   * - 11. T: Nov 3
+   * - 11. U: Nov 5
      - * Programming Logic for Conditionals
      - * Reading: :ref:`programming-logic` (Section 4.2)
-   * - 11. U: Nov 5
-     - * Program Logic in Real World Applications
-     - 
+       * Homework #7
    * - 12. T: Nov 10
      - Review
      - 
@@ -104,11 +109,11 @@ Schedule
      - **Exam 2**
      - 
    * - 13. T: Nov 17
+     - * Program Logic in Real World Applications
+     - 
+   * - 13. U: Nov 19
      - * Functions and Procedures
      - * Reading: :ref:`functions-procedures`
-   * - 13. U: Nov 19
-     - * Functions to Loops
-     - * Reading: :ref:`loops-invariants-induction`
    * - A. T: Nov 24
      - *No Lecture*
      - **Thanksgiving Break**
@@ -116,14 +121,14 @@ Schedule
      - *No Lecture*
      - **Thanksgiving Break**
    * - 14. T: Dec 1
+     - * Introduction To Prolog
+     - * Homework #8
+   * - 14. U: Dec 3
+     - * Functions to Loops
+     - * Reading: :ref:`loops-invariants-induction`
+   * - 15. T: Dec 8
      - * Loops, Invariants, and Induction
      - * Reading: :ref:`loops-invariants-induction`
-   * - 14. U: Dec 3
-     - * Introduction To Prolog
-     - 
-   * - 15. T: Dec 8
-     - * *TBA*
-     - 
    * - 15. U: Dec 10
      - Review
      - 
