@@ -122,7 +122,7 @@ Schedule
      - **Thanksgiving Break**
    * - 14. T: Dec 1
      - * Introduction To Prolog
-     - * Homework #8
+     - 
    * - 14. U: Dec 3
      - * Functions to Loops
      - * Reading: :ref:`loops-invariants-induction`
