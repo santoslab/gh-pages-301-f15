@@ -21,84 +21,94 @@ Schedule
      - Lecture
      - Remarks
    * - 1. T: Aug 25
-     - `Course Administration`
-       & :ref:`introduction` 
-     - 
+     - * Course Administration
+       * Introduction
+     - * Reading: :ref:`introduction` 
    * - 1. U: Aug 27
-     - :ref:`circuits`
-     - 
+     - * Circuits and Truth Tables
+     - * Reading: :ref:`circuits`
    * - 2. T: Sep 1
-     - 
-     - 
+     - * Introduction to Propositional Logic (History, Motivation)
+     - * Reading: Logic in Action 
+     
+         * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
+         
+         * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
+         
    * - 2. U: Sep 3
-     - 
-     - 
+     - * English Language to Propositional Logic
+     - * Reading:
+     
+         * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
+         
+         * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. T: Sep 8
+     - * Alloy -- Propositional Logic
      - 
-     -  
    * - 3. U: Sep 10
-     - 
-     - 
+     - * Introduction to Natural Deduction
+       * Natural Deduction -- And
+     - * Reading: :ref:`propositional-logic`
    * - 4. T: Sep 15
-     - 
-     - 
+     - * Natural Deduction -- Or
+     - * Reading: :ref:`propositional-logic`
    * - 4. U: Sep 17
-     - 
-     - 
+     - * Natural Deduction -- Implies
+     - * Reading: :ref:`propositional-logic`
    * - 5. T: Sep 22
-     - 
-     - 
+     - * Natural Deduction -- Negation
+     - * Reading: :ref:`propositional-logic`
    * - 5. U: Sep 24
-     - 
+     - Review
      - 
    * - 6. T: Sep 29
-     - 
+     - **Exam 1**
      - 
    * - 6. U: Oct 1
-     - 
+     - * Curry-Howard Isomorphism
      - 
    * - 7. T: Oct 6
+     - * Sets and Relations
      - 
-     -
    * - 7. U: Oct 8
-     - 
+     - * Alloy -- Structures and Relations
      - 
    * - 8. T: Oct 13
-     - 
+     - * Alloy -- Relations and Operations
      - 
    * - 8. U: Oct 15
-     - 
+     - * Alloy -- Logical Constraints
      - 
    * - 9. T: Oct 20
-     - 
+     - * Alloy -- Airport Example (Basic)
      - 
    * - 9. U: Oct 22
-     - 
-     - 
+     - * Introduction to Predicate Logic
+     - * Reading: :ref:`predicate-logic`
    * - 10. T: Oct 27
-     - 
-     - 
+     - * Algebra
+     - * Reading: :ref:`algebra`
    * - 10. U: Oct 29
-     - 
-     - 
+     - * Programming Logic for Assignment Statements
+     - * Reading: :ref:`programming-logic` (up to Section 4.1)
    * - 11. T: Nov 3
-     - 
-     - 
+     - * Programming Logic for Conditionals
+     - * Reading: :ref:`programming-logic` (Section 4.2)
    * - 11. U: Nov 5
-     - 
+     - * Program Logic in Real World Applications
      - 
    * - 12. T: Nov 10
-     - 
+     - Review
      - 
    * - 12. U: Nov 12
-     - 
+     - **Exam 2**
      - 
    * - 13. T: Nov 17
-     - 
-     - 
+     - * Functions and Procedures
+     - * Reading: :ref:`functions-procedures`
    * - 13. U: Nov 19
-     - 
-     - 
+     - * Functions to Loops
+     - * Reading: :ref:`loops-invariants-induction`
    * - A. T: Nov 24
      - *No Lecture*
      - **Thanksgiving Break**
@@ -106,16 +116,16 @@ Schedule
      - *No Lecture*
      - **Thanksgiving Break**
    * - 14. T: Dec 1
-     - 
-     -
+     - * Loops, Invariants, and Induction
+     - * Reading: :ref:`loops-invariants-induction`
    * - 14. U: Dec 3
-     - 
+     - * Introduction To Prolog
      - 
    * - 15. T: Dec 8
+     - * *TBA*
      - 
-     -
    * - 15. U: Dec 10
-     - 
+     - Review
      - 
    * - 16. U: Dec 15
      - **Final Exam**

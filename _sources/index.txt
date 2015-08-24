@@ -34,7 +34,7 @@ for programming directly in terms of logic.
                           Office:       16A Nichols Hall,
                           Office Hours: M 3:30-5pm (or by appointment),
                           E-mail:       ``xueyang at k-state.edu``
-**Help E-mail**           ``help-301@santoslab.org``                         
+**Help E-mail**           ``help-301 at santoslab.org``                         
 ========================  =============================================
 
 ----
