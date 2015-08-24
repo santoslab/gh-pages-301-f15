@@ -136,10 +136,10 @@ This sets the stage for analyzing modern programs.</p>
 <div class="section" id="base-2-arithmetic">
 <h2>2.1. Base 2 Arithmetic<a class="headerlink" href="#base-2-arithmetic" title="Permalink to this headline">¶</a></h2>
 <p>Electronic computers do arithmetic in base 2, where numbers are expressed with
-1s and 0s. (E.g., 13 is expressed as <code class="docutils literal"><span class="pre">00001101</span></code> in base 2.)
+<code class="docutils literal"><span class="pre">1</span></code> s and <code class="docutils literal"><span class="pre">0</span></code> s. (E.g., 13 is expressed as <code class="docutils literal"><span class="pre">00001101</span></code> in base 2.)
 A base 2 number is stored in a register or computer word, where each position
-(bit) in the word is wired so that it can hold a low-voltage charge (0) or
-a high-voltage charge (1).
+(bit) in the word is wired so that it can hold a low-voltage charge (<code class="docutils literal"><span class="pre">0</span></code>) or
+a high-voltage charge (<code class="docutils literal"><span class="pre">1</span></code>).
 The wiring of each register/word lets the computer sense the voltage level at
 each bit and change the voltage level.
 A computer does arithmetic by sensing the voltage levels at the bits and
@@ -193,8 +193,8 @@ There are three basic gates that suffice for doing all base-2 computations.</p>
 <code class="docutils literal"><span class="pre">Q</span></code>.
 The output that is computed is emitted from the rightmost wire that exits the
 gate.
-The AND gate emits a high voltage (1) exactly when high voltages are sensed at
-input wires <code class="docutils literal"><span class="pre">P</span></code> and <code class="docutils literal"><span class="pre">Q</span></code>; otherwise low voltage (0) is emitted.
+The AND gate emits a high voltage (<code class="docutils literal"><span class="pre">1</span></code>) exactly when high voltages are sensed
+at input wires <code class="docutils literal"><span class="pre">P</span></code> and <code class="docutils literal"><span class="pre">Q</span></code>; otherwise low voltage (<code class="docutils literal"><span class="pre">0</span></code>) is emitted.
 The gate&#8217;s physical behavior is summarized by a table called a <em>truth table</em>:</p>
 <div class="highlight-python"><div class="highlight"><pre>AND: P Q |
 ------------
@@ -204,8 +204,8 @@ The gate&#8217;s physical behavior is summarized by a table called a <em>truth t
      0 0 | 0
 </pre></div>
 </div>
-<p>For the remainder of this course, we will use <code class="docutils literal"><span class="pre">t</span></code> (read &#8220;true&#8221;) for 1 and
-<code class="docutils literal"><span class="pre">f</span></code> (read &#8220;false&#8221;) for 0.
+<p>For the remainder of this course, we will use <code class="docutils literal"><span class="pre">t</span></code> (read &#8220;true&#8221;) for <code class="docutils literal"><span class="pre">1</span></code> and
+<code class="docutils literal"><span class="pre">f</span></code> (read &#8220;false&#8221;) for <code class="docutils literal"><span class="pre">0</span></code>.
 This is because we will examine applications that go far beyond circuit theory
 and base 2 arithmetic.
 Here are the truth tables for the AND, OR, and NOT gates:</p>
@@ -241,15 +241,15 @@ notes):</p>
 <td>Math</td>
 </tr>
 <tr class="row-even"><td>AND</td>
-<td>^</td>
+<td><code class="docutils literal"><span class="pre">^</span></code></td>
 <td><script type="math/tex">\wedge</script></script></td>
 </tr>
 <tr class="row-odd"><td>OR</td>
-<td>v</td>
+<td><code class="docutils literal"><span class="pre">v</span></code></td>
 <td><script type="math/tex">\vee</script></script></td>
 </tr>
 <tr class="row-even"><td>NOT</td>
-<td>~</td>
+<td><code class="docutils literal"><span class="pre">~</span></code></td>
 <td><script type="math/tex">\neg</script></script></td>
 </tr>
 </tbody>
@@ -466,7 +466,7 @@ Indeed, <em>the first (electronic) computer programs, in the 1940s, were
 descriptions of wiring diagrams</em> like this one.
 The modern stored-program computer, developed by John von Neumann in the 1950s,
 used storage registers to hold the values of the variable names and used a
-rocessor to compute the values of the equations.
+processor to compute the values of the equations.
 In this way, a processor-plus-registers can simulate a circuit, and
 <strong>all computer programs are merely descriptions of circuits in which information
 flows through the wires (the variables)</strong>.</p>
