@@ -25,7 +25,7 @@ Schedule
        & :ref:`introduction` 
      - 
    * - 1. U: Aug 27
-     - :ref:`circuit-truth-tables`
+     - :ref:`circuits`
      - 
    * - 2. T: Sep 1
      - 
