@@ -39,13 +39,3 @@ for programming directly in terms of logic.
 ==================================================  ====================================================================
 
 ----
-
-* :ref:`syllabus`
-
-* :ref:`advice` (must read!)
-
-* :ref:`schedule`
-
-* :ref:`course-notes`
-
-* :ref:`tools`
