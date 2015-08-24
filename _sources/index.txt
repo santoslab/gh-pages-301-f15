@@ -14,29 +14,29 @@ that match the reality of the domain that are being reasoned.
 The focus will be on formal logics for reasoning about program behavior and
 for programming directly in terms of logic.
     
-==================================  ====================================================================
-**Lectures**                        T U 11:00am - 12:15pm, Kedzie Hall, K 004     
-**Instructor**                      `Robby <http://people.cis.ksu.edu/~robby>`__,
-                                    Office:       324B Nichols Hall,
-                                    Office Hours: T 2-3:30pm
-                                    (or by appointment on T-W-U afternoon;
-                                    `see online calendar <http://robby.santoslab.org/calendar.html>`__),
-                                    E-mail:       ``robby at k-state.edu``
-**Teaching Assistant**              Hariharan Thiagarajan,
-                                    Office:       324G Nichols Hall,
-                                    Office Hours: W 3-5pm (or by appointment),
-                                    E-mail:       ``thari at k-state.edu``
-**Teaching Assistant**              Varun Varshney,
-                                    Office:       Nichols Hall,
-                                    Office Hours: F 3:30-5pm (or by appointment),
-                                    E-mail:       ``varshney at k-state.edu``
-**Teaching Assistant**              Yang Xue,
-                                    Office:       16A Nichols Hall,
-                                    Office Hours: M 3:30-5pm (or by appointment),
-                                    E-mail:       ``xueyang at k-state.edu``
-**Help E-mail**                     ``help-301 at santoslab.org``
-(*for appointments and questions*)                         
-==================================  =====================================================================
+==================================================  ====================================================================
+**Lectures**                                        T U 11:00am - 12:15pm, Kedzie Hall, K 004     
+**Instructor**                                      `Robby <http://people.cis.ksu.edu/~robby>`__,
+                                                    Office:       324B Nichols Hall,
+                                                    Office Hours: T 2-3:30pm
+                                                    (or by appointment on T-W-U afternoon;
+                                                    `see online calendar <http://robby.santoslab.org/calendar.html>`__),
+                                                    E-mail:       ``robby at k-state.edu``
+**Teaching Assistant**                              Hariharan Thiagarajan,
+                                                    Office:       324G Nichols Hall,
+                                                    Office Hours: W 3-5pm (or by appointment),
+                                                    E-mail:       ``thari at k-state.edu``
+**Teaching Assistant**                              Varun Varshney,
+                                                    Office:       Nichols Hall,
+                                                    Office Hours: F 3:30-5pm (or by appointment),
+                                                    E-mail:       ``varshney at k-state.edu``
+**Teaching Assistant**                              Yang Xue,
+                                                    Office:       16A Nichols Hall,
+                                                    Office Hours: M 3:30-5pm (or by appointment),
+                                                    E-mail:       ``xueyang at k-state.edu``
+**Help E-mail** (*for appointments and questions*)  ``help-301 at santoslab.org``
+                         
+==================================================  ====================================================================
 
 ----
 
