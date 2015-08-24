@@ -14,7 +14,7 @@ that match the reality of the domain that are being reasoned.
 The focus will be on formal logics for reasoning about program behavior and
 for programming directly in terms of logic.
     
-==================================  =============================================
+==================================  ====================================================================
 **Lectures**                        T U 11:00am - 12:15pm, Kedzie Hall, K 004     
 **Instructor**                      `Robby <http://people.cis.ksu.edu/~robby>`__,
                                     Office:       324B Nichols Hall,
@@ -36,7 +36,7 @@ for programming directly in terms of logic.
                                     E-mail:       ``xueyang at k-state.edu``
 **Help E-mail**                     ``help-301 at santoslab.org``
 (*for appointments and questions*)                         
-==================================  =============================================
+==================================  =====================================================================
 
 ----
 
