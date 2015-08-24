@@ -30,7 +30,7 @@ Schedule
        * Homework #1
    * - 2. T: Sep 1
      - * Introduction to Propositional Logic (History, Motivation)
-     - * Reading: Logic in Action 
+     - * Reading: `Logic in Action <http://www.logicinaction.org>`__ 
      
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
          
