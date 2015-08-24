@@ -121,14 +121,14 @@ Schedule
      - *No Lecture*
      - **Thanksgiving Break**
    * - 14. T: Dec 1
-     - * Introduction To Prolog
-     - 
-   * - 14. U: Dec 3
      - * Functions to Loops
      - * Reading: :ref:`loops-invariants-induction`
-   * - 15. T: Dec 8
+   * - 14. U: Dec 3
      - * Loops, Invariants, and Induction
      - * Reading: :ref:`loops-invariants-induction`
+   * - 15. T: Dec 8
+     - * Introduction To Prolog
+     - 
    * - 15. U: Dec 10
      - Review
      - 
