@@ -121,7 +121,7 @@ Grading
 
 * Final Exam: 25%
 
-* Class participation: 10%
+* In-class Exercises: 10%
 
 Class participation involves not just being physically present, but also
 actively contributing to the learning climate, by answering questions,
