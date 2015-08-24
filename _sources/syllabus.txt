@@ -123,10 +123,6 @@ Grading
 
 * In-class Exercises: 10%
 
-Class participation involves not just being physically present, but also
-actively contributing to the learning climate, by answering questions,
-doing simple exercises on the board, asking interesting questions, etc.
-
 Final letter grades are assigned based on the following scale:
 90% to earn an A, and 80% to earn a B; 70% to earn a C, and 60% to earn a D.
 
