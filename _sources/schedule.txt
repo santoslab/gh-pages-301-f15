@@ -72,7 +72,7 @@ Schedule
      - 
    * - 7. T: Oct 6
      - * Sets and Relations
-     - 
+     - * Reading: `Logic in Action: Appendix A. Sets, Relations and Functions <https://drive.google.com/open?id=0B3opDhlww1AXOEFJajZYYW9GTlU>`__ 
    * - 7. U: Oct 8
      - * Introduction to Predicate Logic
      - * Reading: :ref:`predicate-logic`

@@ -107,7 +107,7 @@ We will learn how to write and insert such knowledge checks, called
 *assertions*, into programs and use the laws of symbolic logic to prove that the
 assertions will hold true.
 
-You will see many examples of ``program schematics'' in the upcoming chapters.
+You will see many examples of "program schematics" in the upcoming chapters.
 Here are two.
 First, this little code fragment apparently selects the larger of two integers
 and prints it:
