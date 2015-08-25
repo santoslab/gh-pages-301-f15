@@ -91,7 +91,7 @@ Schedule
      - 
    * - 10. T: Oct 27
      - * Alloy -- Example (Basic)
-     - Homework #6
+     - * Homework #6
    * - 10. U: Oct 29
      - * Algebra
      - * Reading: :ref:`algebra`
@@ -101,7 +101,6 @@ Schedule
    * - 11. U: Nov 5
      - * Programming Logic for Conditionals
      - * Reading: :ref:`programming-logic` (Section 4.2)
-       * Homework #7
    * - 12. T: Nov 10
      - Review
      - 
@@ -110,7 +109,7 @@ Schedule
      - 
    * - 13. T: Nov 17
      - * Program Logic in Real World Applications
-     - 
+     - * Homework #7
    * - 13. U: Nov 19
      - * Functions and Procedures
      - * Reading: :ref:`functions-procedures`
