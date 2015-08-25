@@ -76,10 +76,9 @@ Schedule
    * - 7. U: Oct 8
      - * Introduction to Predicate Logic
      - * Reading: :ref:`predicate-logic`
-       * Homework #5
    * - 8. T: Oct 13
      - * Alloy for Predicate Logic
-     - 
+     - * Homework #5
    * - 8. U: Oct 15
      - * Alloy -- Structures and Relations
      - 
