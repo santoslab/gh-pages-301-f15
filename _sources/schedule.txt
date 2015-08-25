@@ -21,8 +21,8 @@ Schedule
      - Lecture
      - Remarks
    * - 1. T: Aug 25
-     - * Course Administration
-       * Introduction
+     - * `Course Administration <https://drive.google.com/open?id=0B3opDhlww1AXX25UVWFmQWpKNGM>`__
+       * `Introduction <https://drive.google.com/open?id=0B3opDhlww1AXZm9CM0psX3VYVDg>`__
      - * Reading: :ref:`introduction` 
    * - 1. U: Aug 27
      - * Circuits and Truth Tables
