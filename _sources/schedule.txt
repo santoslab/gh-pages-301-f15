@@ -18,7 +18,7 @@ Schedule
    :header-rows: 1
    
    * - Week. Day: Date
-     - Lecture
+     - Lecture (`Slides <https://drive.google.com/open?id=0B3opDhlww1AXflNveHRlSmd1VF9JMmtuU19MZjE3SVowQnloRkZEczltMkdsTGt0UGctTWc>`__)
      - Remarks
    * - 1. T: Aug 25
      - * `Course Administration <https://drive.google.com/open?id=0B3opDhlww1AXX25UVWFmQWpKNGM>`__
