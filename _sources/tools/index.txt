@@ -49,7 +49,7 @@ the tool to your Desktop and double-click to start it:
 
 * `click here to download the natural-deduction proof-checker tool <https://drive.google.com/open?id=0B3opDhlww1AXUlJ5VkY3cDdIUWs>`__
 
-* `here is the tool's user manual (pdf) <https://drive.google.com/open?id=0B3opDhlww1AXUlJ5VkY3cDdIUWs>`__
+* `here is the tool's user manual (pdf) <https://drive.google.com/open?id=0B3opDhlww1AXLVRlZk94Z3FDSEU>`__
 
 
 C# Code Contracts
