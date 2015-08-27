@@ -25,9 +25,10 @@ Schedule
        * `Introduction <https://drive.google.com/open?id=0B3opDhlww1AXZm9CM0psX3VYVDg>`__
      - * Reading: :ref:`introduction` 
    * - 1. U: Aug 27
-     - * Circuits and Truth Tables
+     - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B3opDhlww1AXRm80bmZXaFlOdTQ>`__
      - * Reading: :ref:`circuits`
-       * Homework #1
+       * Homework #1 (**due on Sep 4, 2015 at 11:55pm US Central**)
+       * Tutorial: `K-State Online <https://drive.google.com/open?id=0B3opDhlww1AXRzZPN2xYOGNfX1U>`__
    * - 2. T: Sep 1
      - * Introduction to Propositional Logic (History, Motivation)
      - * Reading: `Logic in Action <http://www.logicinaction.org>`__ 
@@ -43,23 +44,24 @@ Schedule
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
          
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
+         
    * - 3. T: Sep 8
      - * Alloy -- Propositional Logic
      - * Homework #2
    * - 3. U: Sep 10
      - * Introduction to Natural Deduction
        * Natural Deduction -- And
-     - * Reading: :ref:`propositional-logic`
+     - * Reading: :ref:`propositional-logic` (up to Section 7.3)
    * - 4. T: Sep 15
      - * Natural Deduction -- Or
-     - * Reading: :ref:`propositional-logic`
+     - * Reading: :ref:`propositional-logic` (Section 7.4)
        * Homework #3
    * - 4. U: Sep 17
      - * Natural Deduction -- Implies
-     - * Reading: :ref:`propositional-logic`
+     - * Reading: :ref:`propositional-logic` (Section 7.5)
    * - 5. T: Sep 22
      - * Natural Deduction -- Negation
-     - * Reading: :ref:`propositional-logic`
+     - * Reading: :ref:`propositional-logic` (Section 7.7)
        * Homework #4
    * - 5. U: Sep 24
      - Review
@@ -75,7 +77,7 @@ Schedule
      - * Reading: `Logic in Action: Appendix A. Sets, Relations and Functions <https://drive.google.com/open?id=0B3opDhlww1AXOEFJajZYYW9GTlU>`__ 
    * - 7. U: Oct 8
      - * Introduction to Predicate Logic
-     - * Reading: :ref:`predicate-logic`
+     - * Reading: :ref:`predicate-logic` (up to Section 8.2)
    * - 8. T: Oct 13
      - * Alloy for Predicate Logic
      - * Homework #5
