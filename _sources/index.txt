@@ -27,7 +27,7 @@ for programming directly in terms of logic.
                                                     Office Hours: W 3-5pm (or by appointment),
                                                     E-mail:       ``thari at k-state.edu``
 **Teaching Assistant**                              Varun Varshney,
-                                                    Office:       Nichols Hall,
+                                                    Office:       324J Nichols Hall,
                                                     Office Hours: F 3:30-5pm (or by appointment),
                                                     E-mail:       ``varshney at k-state.edu``
 **Teaching Assistant**                              Yang Xue,

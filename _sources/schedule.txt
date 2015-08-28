@@ -47,7 +47,7 @@ Schedule
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
          
    * - 3. T: Sep 8
-     - * Alloy -- Propositional Logic
+     - * Automatic Reasoning of Propositional Logic
      - * Homework #2
    * - 3. U: Sep 10
      - * Introduction to Natural Deduction
