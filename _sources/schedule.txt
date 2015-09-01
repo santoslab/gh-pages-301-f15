@@ -65,10 +65,9 @@ Schedule
    * - 5. T: Sep 22
      - * Natural Deduction -- Negation
      - * Reading: :ref:`propositional-logic` (Section 7.7)
-       * Homework #4
    * - 5. U: Sep 24
      - Review
-     - 
+     - * Homework #4
    * - 6. T: Sep 29
      - **Exam 1**
      - 
