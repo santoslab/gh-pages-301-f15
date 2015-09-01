@@ -7,6 +7,8 @@ Schedule
 
    <h3>CIS 301: Logical Foundations of Programming, Fall 2015</h3>
 
+.. |KSOL| replace:: `K-State Online <https://online.ksu.edu/Axio>`__
+ 
 ----
 
 **Lecture:** T U 11:00am - 12:15pm, Kedzie Hall, K 004
@@ -27,7 +29,7 @@ Schedule
    * - 1. U: Aug 27
      - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B3opDhlww1AXRm80bmZXaFlOdTQ>`__
      - * Reading: :ref:`circuits`
-       * Homework #1 (**due on Sep 4, 2015 at 11:55pm US Central**)
+       * Homework #1 (|KSOL|, **due on Sep 4, 2015 at 11:55pm US Central**)
        * Tutorial: `K-State Online <https://drive.google.com/open?id=0B3opDhlww1AXRzZPN2xYOGNfX1U>`__
        * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/Ex01-Circuits-and-Truth-Tables--exercises.pdf>`__
    * - 2. T: Sep 1
