@@ -12,7 +12,43 @@ Tools
 .. |download-icon| image:: download-icon.png
 
 ----
-   
+
+Z3 SMT Prover
+*************
+Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
+developed at the Research in Software Engineering (RiSE) group at Microsoft
+Research.
+
+* `Website <https://github.com/z3prover/z3/wiki>`__
+
+* `Introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
+
+* `Online version <http://rise4fun.com/z3>`__
+
+* Download offline (v4.4, 64-bit) version:
+
+  * `Mac <https://drive.google.com/open?id=0B3opDhlww1AXemNXVTU3SHRVLXM>`__
+  
+  * `Linux <https://drive.google.com/open?id=0B3opDhlww1AXYUhLSmt4RGk2WDQ>`__
+  
+  * `Windows <https://drive.google.com/open?id=0B3opDhlww1AXSnNjUG43UkFQNEE>`__
+
+
+Symbolic-Logic Proof Checker
+****************************
+
+When we study Chapters 5 and 6 of the on-line text,
+we will use a tool developed in-house by Mr. Brian Mulanda, Dr. Rod Howell, and
+Mr. James Thompson for checking logic proofs.
+The tool runs on top of Java.
+If you have Java installed on your computer (very likely), then you can download
+the tool to your Desktop and double-click to start it:
+
+* `click here to download the natural-deduction proof-checker tool <https://drive.google.com/open?id=0B3opDhlww1AXUlJ5VkY3cDdIUWs>`__
+
+* `here is the tool's user manual (pdf) <https://drive.google.com/open?id=0B3opDhlww1AXLVRlZk94Z3FDSEU>`__
+
+
 Alloy Modeling Language and Constraint Analyzer
 ***********************************************
 
@@ -35,29 +71,6 @@ existential quantifiers from predicate logic.
 
 * `Web page <http://alloy.mit.edu/alloy/>`__
 * `Tutorial <http://alloy.mit.edu/alloy/tutorials/online/>`__
-
-
-Symbolic-logic Proof Checker
-****************************
-
-When we study Chapters 5 and 6 of the on-line text,
-we will use a tool developed in-house by Mr. Brian Mulanda, Dr. Rod Howell, and
-Mr. James Thompson for checking logic proofs.
-The tool runs on top of Java.
-If you have Java installed on your computer (very likely), then you can download
-the tool to your Desktop and double-click to start it:
-
-* `click here to download the natural-deduction proof-checker tool <https://drive.google.com/open?id=0B3opDhlww1AXUlJ5VkY3cDdIUWs>`__
-
-* `here is the tool's user manual (pdf) <https://drive.google.com/open?id=0B3opDhlww1AXLVRlZk94Z3FDSEU>`__
-
-
-C# Code Contracts
-*****************
-
-* `Web page <http://www.rise4fun.com/CodeContracts>`__
-
-* `Manual <https://research.microsoft.com/en-us/projects/contracts/userdoc.pdf>`__
 
 
 Proof Checker for Floyd-Hoare Program Logic
@@ -130,3 +143,11 @@ Prolog
 At the end of the course, we will take a quick look at the Prolog programming
 language.
 There is a good, easy-to-install implementation at http://www.swi-prolog.org.
+
+
+C# Code Contracts
+*****************
+
+* `Web page <http://www.rise4fun.com/CodeContracts>`__
+
+* `Manual <https://research.microsoft.com/en-us/projects/contracts/userdoc.pdf>`__
