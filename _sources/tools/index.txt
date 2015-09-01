@@ -16,7 +16,7 @@ Tools
 Z3 SMT Prover
 *************
 Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
-developed at the Research in Software Engineering (RiSE) group at Microsoft
+developed at the Research in Software Engineering (RiSE) group in Microsoft
 Research.
 
 * `Website <https://github.com/z3prover/z3/wiki>`__
