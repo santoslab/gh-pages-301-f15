@@ -50,7 +50,8 @@ Schedule
          
    * - 3. T: Sep 8
      - * Automatic Reasoning of Propositional Logic
-     - * Homework #2
+     - * Watch: `Z3's introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
+       * Homework #2
    * - 3. U: Sep 10
      - * Introduction to Natural Deduction
        * Natural Deduction -- And
