@@ -32,6 +32,8 @@ Schedule
        * Homework #1 (|KSOL|, **due on Sep 4, 2015 at 11:55pm US Central**)
        * Tutorial: `K-State Online <https://drive.google.com/open?id=0B3opDhlww1AXRzZPN2xYOGNfX1U>`__
        * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/Ex01-Circuits-and-Truth-Tables--exercises.pdf>`__
+       * FYTDs: `#1 <https://drive.google.com/open?id=0B3opDhlww1AXLWpjWjlDTjBFV2M>`__,
+         `#2 <https://drive.google.com/open?id=0B3opDhlww1AXTDB6enFyNHdmTkk>`__
    * - 2. T: Sep 1
      - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMDNPTUdBMmp5c1E>`__
      - * Reading: `Logic in Action <http://www.logicinaction.org>`__ 
