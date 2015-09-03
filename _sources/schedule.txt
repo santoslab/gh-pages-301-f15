@@ -31,7 +31,7 @@ Schedule
      - * Reading: :ref:`circuits`
        * Homework #1 (|KSOL|, **due on Sep 4, 2015 at 11:55pm US Central**)
        * Tutorial: `K-State Online <https://drive.google.com/open?id=0B3opDhlww1AXRzZPN2xYOGNfX1U>`__
-       * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/Ex01-Circuits-and-Truth-Tables--exercises.pdf>`__
+       * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/02X-cis301-circuits-truth-tables.pdf>`__
        * FYTDs: `#1 <https://drive.google.com/open?id=0B3opDhlww1AXLWpjWjlDTjBFV2M>`__,
          `#2 <https://drive.google.com/open?id=0B3opDhlww1AXTDB6enFyNHdmTkk>`__
    * - 2. T: Sep 1
@@ -43,13 +43,15 @@ Schedule
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
          
    * - 2. U: Sep 3
-     - * English Language to Propositional Logic
+     - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXT0RkVHBEWHVldjA>`__
      - * Reading:
      
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
          
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
          
+       * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/04X-cis301-english-language-to-propositional-logic.pdf>`__
+       
    * - 3. T: Sep 8
      - * Automatic Reasoning of Propositional Logic
      - * Watch: `Z3's introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
