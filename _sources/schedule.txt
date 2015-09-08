@@ -53,7 +53,8 @@ Schedule
        * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/04X-cis301-english-language-to-propositional-logic.pdf>`__
        
    * - 3. T: Sep 8
-     - * Automatic Reasoning of Propositional Logic
+     - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXeDdTMnRMQXJUNWs>`__
+         [`examples <https://drive.google.com/open?id=0B3opDhlww1AXeVNfUWVubERPeUk>`__] 
      - * Watch: `Z3's introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
        * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3. Propositional Logic)
