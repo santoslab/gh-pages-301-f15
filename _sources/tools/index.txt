@@ -13,6 +13,22 @@ Tools
 
 ----
 
+
+Remote Desktop
+**************
+
+You can access CIS Windows machine remotely via remote desktop to 
+``remote.win.cis.ksu.edu``.
+You need to use a remote desktop software specific to your OS (e.g.,
+`win <http://apps.microsoft.com/windows/en-us/app/remote-desktop/051f560e-5e9b-4dad-8b2e-fa5e0b05a480>`__, 
+`linux <http://rdesktop.sourceforge.net/>`__, 
+`mac <https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417>`__).
+
+Note that if you are accessing ``remote.win.cis.ksu.edu`` from off-campus, you
+will need to use K-State VPN software (http://www.k-state.edu/its/security/vpn/)
+before connecting to it.
+
+
 Z3 SMT Prover
 *************
 Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
