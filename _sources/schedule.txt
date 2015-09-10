@@ -61,8 +61,8 @@ Schedule
        * Tutorial: `Z3 (offline) installation <https://drive.google.com/open?id=0B3opDhlww1AXcHlXYWxqUGR6THc>`__ 
        * Homework #2 (|KSOL|, **due on Sep 15, 2015 at 11:55pm US Central**)
    * - 3. U: Sep 10
-     - * Introduction to Natural Deduction
-       * Natural Deduction -- And
+     - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B3opDhlww1AXT1hocFRDcGIxczg>`__
+       * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXdGEzWDRodVZsaHc>`__
      - * Reading: :ref:`propositional-logic` (up to Section 7.3)
        * Tutorial: `Symbolic-Logic Natural Deduction Proof Checker <https://drive.google.com/open?id=0B3opDhlww1AXbUFZaDZYYWc0VXM>`__
    * - 4. T: Sep 15
