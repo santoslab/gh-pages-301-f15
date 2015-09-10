@@ -50,8 +50,8 @@ Research.
   * `Windows <https://drive.google.com/open?id=0B3opDhlww1AXSnNjUG43UkFQNEE>`__
 
 
-Symbolic-Logic Proof Checker
-****************************
+Symbolic-Logic Natural Deduction Proof Checker
+**********************************************
 
 When we study Chapters 5 and 6 of the on-line text,
 we will use a tool developed in-house by Mr. Brian Mulanda, Dr. Rod Howell, and
