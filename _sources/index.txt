@@ -23,7 +23,7 @@ for programming directly in terms of logic.
                                                     `see online calendar <http://robby.santoslab.org/calendar.html>`__),
                                                     E-mail:       ``robby at k-state.edu``
 **Teaching Assistant**                              Hariharan Thiagarajan,
-                                                    Office:       324G Nichols Hall,
+                                                    Office:       324I Nichols Hall,
                                                     Office Hours: W 3-5pm (or by appointment),
                                                     E-mail:       ``thari at k-state.edu``
 **Teaching Assistant**                              Varun Varshney,

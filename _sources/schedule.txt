@@ -59,10 +59,13 @@ Schedule
        * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3. Propositional Logic)
        * Tutorial: `Z3 (offline) installation <https://drive.google.com/open?id=0B3opDhlww1AXcHlXYWxqUGR6THc>`__ 
-       * Homework #2 (|KSOL|, **due on Sep 15, 2015 at 11:55pm US Central**)
+       * Homework #2 (|KSOL|, **due on Sep 16, 2015 at 11:55pm US Central**)
    * - 3. U: Sep 10
      - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B3opDhlww1AXT1hocFRDcGIxczg>`__
+         [`example <https://drive.google.com/open?id=0B3opDhlww1AXYTFsQXNEVzkwcVE>`__]
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXdGEzWDRodVZsaHc>`__
+         [`example #1 <https://drive.google.com/open?id=0B3opDhlww1AXTWdtQXdZTzFzRzA>`__,
+         `example #2 <https://drive.google.com/open?id=0B3opDhlww1AXckl1eWV1OTEwTXM>`__]
      - * Reading: :ref:`propositional-logic` (up to Section 7.3)
        * Tutorial: `Symbolic-Logic Natural Deduction Proof Checker <https://drive.google.com/open?id=0B3opDhlww1AXbUFZaDZYYWc0VXM>`__
    * - 4. T: Sep 15
