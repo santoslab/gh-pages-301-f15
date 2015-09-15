@@ -62,15 +62,24 @@ Schedule
        * Homework #2 (|KSOL|, **due on Sep 16, 2015 at 11:55pm US Central**)
    * - 3. U: Sep 10
      - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B3opDhlww1AXT1hocFRDcGIxczg>`__
-         [`example <https://drive.google.com/open?id=0B3opDhlww1AXYTFsQXNEVzkwcVE>`__]
+         [`ndpc <https://drive.google.com/open?id=0B3opDhlww1AXYTFsQXNEVzkwcVE>`__]
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXdGEzWDRodVZsaHc>`__
-         [`example #1 <https://drive.google.com/open?id=0B3opDhlww1AXTWdtQXdZTzFzRzA>`__,
-         `example #2 <https://drive.google.com/open?id=0B3opDhlww1AXckl1eWV1OTEwTXM>`__]
+         [ndpc: `#1 <https://drive.google.com/open?id=0B3opDhlww1AXTWdtQXdZTzFzRzA>`__,
+         `#2 <https://drive.google.com/open?id=0B3opDhlww1AXckl1eWV1OTEwTXM>`__]
      - * Reading: :ref:`propositional-logic` (up to Section 7.3)
        * Tutorial: `Symbolic-Logic Natural Deduction Proof Checker <https://drive.google.com/open?id=0B3opDhlww1AXbUFZaDZYYWc0VXM>`__
+       * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/07X-cis301-natural-deduction-and.pdf>`__
+         [`ndpc <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/07X-cis301-natural-deduction-and.txt>`__]
    * - 4. T: Sep 15
-     - * Natural Deduction -- Or
+     - * `Natural Deduction -- Or <https://drive.google.com/open?id=0B3opDhlww1AXeWo5MVJSV25sZW8>`__
+         [ndpc: `#1 <https://drive.google.com/open?id=0B3opDhlww1AXSHpEMlFuY3BWTlE>`__,
+         `#2a <https://drive.google.com/open?id=0B3opDhlww1AXTkgwcEMxR09yUEk>`__,
+         `#2b <https://drive.google.com/open?id=0B3opDhlww1AXaXVNZ0g1d0sySTg>`__,
+         `#3 <https://drive.google.com/open?id=0B3opDhlww1AXRjZiX0VXZDBKTFE>`__]
      - * Reading: :ref:`propositional-logic` (Section 7.4)
+       * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or.pdf>`__
+         [ `ndpc #1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-1.txt>`__, 
+         ndpc #2 (to be posted)] 
    * - 4. U: Sep 17
      - * Natural Deduction -- Implies
      - * Reading: :ref:`propositional-logic` (Section 7.5)
