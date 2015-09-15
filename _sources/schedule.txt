@@ -71,10 +71,10 @@ Schedule
    * - 4. T: Sep 15
      - * Natural Deduction -- Or
      - * Reading: :ref:`propositional-logic` (Section 7.4)
-       * Homework #3
    * - 4. U: Sep 17
      - * Natural Deduction -- Implies
      - * Reading: :ref:`propositional-logic` (Section 7.5)
+       * Homework #3
    * - 5. T: Sep 22
      - * Natural Deduction -- Negation
      - * Reading: :ref:`propositional-logic` (Section 7.7)
