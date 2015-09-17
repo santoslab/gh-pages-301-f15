@@ -78,12 +78,19 @@ Schedule
          `#3 <https://drive.google.com/open?id=0B3opDhlww1AXRjZiX0VXZDBKTFE>`__]
      - * Reading: :ref:`propositional-logic` (Section 7.4)
        * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or.pdf>`__
-         [ `ndpc #1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-1.txt>`__, 
-         ndpc #2 (to be posted)] 
+         [ ndpc: `#1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-1.txt>`__, 
+         `#2 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-2.txt>`__] 
    * - 4. U: Sep 17
-     - * Natural Deduction -- Implies
+     - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXOGVyYmNSYmFxd00>`__
+         [ ndpc: `#1 <https://drive.google.com/open?id=0B3opDhlww1AXYlR2ZHhhYmJBR1U>`__,
+         `#2 <https://drive.google.com/open?id=0B3opDhlww1AXNXBJem9yZGZiY0U>`__,
+         `#3a <https://drive.google.com/open?id=0B3opDhlww1AXMGU5eklsaHYtSVk>`__,
+         `#3b <https://drive.google.com/open?id=0B3opDhlww1AXTjl5MWMyQTVUa1E>`__,
+         `#4 <https://drive.google.com/open?id=0B3opDhlww1AXaW9ibjFydkVoTTQ>`__]
      - * Reading: :ref:`propositional-logic` (Section 7.5)
-       * Homework #3
+       * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/09X-cis301-natural-deduction-implies.pdf>`__
+         [ ndpc: #1, #2 (to be posted) ]
+       * Homework #3 (|KSOL|, **due on Sep 25, 2015 at 11:55pm US Central**)
    * - 5. T: Sep 22
      - * Natural Deduction -- Negation
      - * Reading: :ref:`propositional-logic` (Section 7.7)
