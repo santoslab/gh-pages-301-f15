@@ -78,8 +78,7 @@ Schedule
          `#3 <https://drive.google.com/open?id=0B3opDhlww1AXRjZiX0VXZDBKTFE>`__]
      - * Reading: :ref:`propositional-logic` (Section 7.4)
        * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or.pdf>`__
-         [ ndpc: `#1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-1.txt>`__, 
-         `#2 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-2.txt>`__] 
+         [ ndpc: `#1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-1.txt>`__ ] 
    * - 4. U: Sep 17
      - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXOGVyYmNSYmFxd00>`__
          [ ndpc: `#1 <https://drive.google.com/open?id=0B3opDhlww1AXYlR2ZHhhYmJBR1U>`__,
