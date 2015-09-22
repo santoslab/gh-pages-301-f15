@@ -18,7 +18,7 @@ for programming directly in terms of logic.
 **Lectures**                                        T U 11:00am - 12:15pm, Kedzie Hall, K 004     
 **Instructor**                                      `Robby <http://people.cis.ksu.edu/~robby>`__,
                                                     Office:       324B Nichols Hall,
-                                                    Office Hours: T 2-3:30pm
+                                                    Office Hours: T 1:30-3pm
                                                     (or by appointment on T-W-U afternoon;
                                                     `see online calendar <http://robby.santoslab.org/calendar.html>`__),
                                                     E-mail:       ``robby at k-state.edu``
