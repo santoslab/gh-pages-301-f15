@@ -88,10 +88,19 @@ Schedule
          `#4 <https://drive.google.com/open?id=0B3opDhlww1AXaW9ibjFydkVoTTQ>`__]
      - * Reading: :ref:`propositional-logic` (Section 7.5)
        * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/09X-cis301-natural-deduction-implies.pdf>`__
-         [ ndpc: #1, #2 (to be posted) ]
+         [ ndpc: `#1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/09X-cis301-natural-deduction-implies-1.txt>`__, 
+         `#2 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/09X-cis301-natural-deduction-implies-2.txt>`__ ]
        * Homework #3 (|KSOL|, **due on Sep 25, 2015 at 11:55pm US Central**)
    * - 5. T: Sep 22
-     - * Natural Deduction -- Negation
+     - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXLVdyTU9pS3hlMGM>`__
+         [ ndpc: `#1 <https://drive.google.com/open?id=0B3opDhlww1AXcF9IclZLZ2xlOFE>`__, 
+         `#2 <https://drive.google.com/open?id=0B3opDhlww1AXbUUxdDJoNWJnNDA>`__,
+         `#3 <https://drive.google.com/open?id=0B3opDhlww1AXQ1ozRm9naXBBT00>`__,
+         `#4 <https://drive.google.com/open?id=0B3opDhlww1AXaFdIUG1yM2UwM1U>`__,
+         `#5 <https://drive.google.com/open?id=0B3opDhlww1AXUThCMGUyWWd0YmM>`__,
+         `#6 <https://drive.google.com/open?id=0B3opDhlww1AXamsxanpXdHNjWHc>`__,
+         `#7 <https://drive.google.com/open?id=0B3opDhlww1AXNVhkWlZKcmRTS2M>`__,
+         `#8 <https://drive.google.com/open?id=0B3opDhlww1AXcFc4QUtXMTJObVU>`__]
      - * Reading: :ref:`propositional-logic` (Section 7.6 - 7.7)
    * - 5. U: Sep 24
      - Review
@@ -162,8 +171,8 @@ Schedule
    * - 15. U: Dec 10
      - Review
      - 
-   * - 16. U: Dec 15
-     - **Final Exam**
+   * - 16. T: Dec 15
+     - **Final Exam** (`K-State Final Exam Schedule <http://courses.k-state.edu/fall2015/information/xam.html>`__)
      - **Time:** 9:40am - 11:30am
    
 ----
