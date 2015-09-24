@@ -103,7 +103,7 @@ Schedule
          `#8 <https://drive.google.com/open?id=0B3opDhlww1AXcFc4QUtXMTJObVU>`__]
      - * Reading: :ref:`propositional-logic` (Section 7.6 - 7.7)
    * - 5. U: Sep 24
-     - Review #1
+     - Review
      - * Homework #4
    * - 6. T: Sep 29
      - **Exam 1**
@@ -117,9 +117,10 @@ Schedule
    * - 7. U: Oct 8
      - * Introduction to Predicate Logic
      - * Reading: :ref:`predicate-logic` (up to Section 8.2)
-     - * Homework #5
+       * Homework #5
    * - 8. T: Oct 13
      - * Alloy for Predicate Logic
+     - 
    * - 8. U: Oct 15
      - * Alloy -- Structures and Relations
      - 
@@ -142,7 +143,7 @@ Schedule
      - * Programming Logic for Conditionals
      - * Reading: :ref:`programming-logic` (Section 4.2)
    * - 12. T: Nov 10
-     - Review #2
+     - Review
      - 
    * - 12. U: Nov 12
      - **Exam 2**
@@ -169,7 +170,7 @@ Schedule
      - * Introduction To Prolog
      - 
    * - 15. U: Dec 10
-     - Review #3
+     - Review
      - 
    * - 16. T: Dec 15
      - **Final Exam** (`K-State Final Exam Schedule <http://courses.k-state.edu/fall2015/information/xam.html>`__)
