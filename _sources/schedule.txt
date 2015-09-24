@@ -149,7 +149,7 @@ Schedule
      - Review 2
      - 
    * - 12. U: Nov 12
-     - **Exam #2**
+     - **Exam 2**
      - 
    * - 13. T: Nov 17
      - * Program Logic in Real World Applications
