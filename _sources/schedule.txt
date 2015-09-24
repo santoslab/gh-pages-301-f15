@@ -110,7 +110,7 @@ Schedule
        * Homework #4 (|KSOL|, **due on Oct 7, 2015 at 11:55pm US Central**)
    * - 6. T: Sep 29
      - **Exam 1**
-     - `References 1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Review/cis301-exam-1-refs.pdf>`__
+     - `References <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Review/cis301-exam-1-refs.pdf>`__
    * - 6. U: Oct 1
      - * Curry-Howard Isomorphism
      - 
