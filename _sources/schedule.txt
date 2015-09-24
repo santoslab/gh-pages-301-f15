@@ -103,11 +103,14 @@ Schedule
          `#8 <https://drive.google.com/open?id=0B3opDhlww1AXcFc4QUtXMTJObVU>`__]
      - * Reading: :ref:`propositional-logic` (Section 7.6 - 7.7)
    * - 5. U: Sep 24
-     - Review
-     - * Homework #4
+     - `Review 1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Review/cis301-review-1.pdf>`__
+     - * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/10X-cis301-natural-deduction-negation.pdf>`__
+         [ ndpc: `#1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/10X-cis301-natural-deduction-negation-1.txt>`__, 
+         `#2 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/10X-cis301-natural-deduction-negation-2.txt>`__ ]
+       * Homework #4 (|KSOL|, **due on Oct 7, 2015 at 11:55pm US Central**)
    * - 6. T: Sep 29
      - **Exam 1**
-     - 
+     - `References 1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Review/cis301-exam-1-refs.pdf>`__
    * - 6. U: Oct 1
      - * Curry-Howard Isomorphism
      - 
@@ -143,10 +146,10 @@ Schedule
      - * Programming Logic for Conditionals
      - * Reading: :ref:`programming-logic` (Section 4.2)
    * - 12. T: Nov 10
-     - Review
+     - Review 2
      - 
    * - 12. U: Nov 12
-     - **Exam 2**
+     - **Exam #2**
      - 
    * - 13. T: Nov 17
      - * Program Logic in Real World Applications
@@ -170,7 +173,7 @@ Schedule
      - * Introduction To Prolog
      - 
    * - 15. U: Dec 10
-     - Review
+     - Review 3
      - 
    * - 16. T: Dec 15
      - **Final Exam** (`K-State Final Exam Schedule <http://courses.k-state.edu/fall2015/information/xam.html>`__)
