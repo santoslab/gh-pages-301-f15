@@ -78,7 +78,8 @@ Schedule
          `#3 <https://drive.google.com/open?id=0B3opDhlww1AXRjZiX0VXZDBKTFE>`__]
      - * Reading: :ref:`propositional-logic` (Section 7.4)
        * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or.pdf>`__
-         [ ndpc: `#1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-1.txt>`__ ] 
+         [ ndpc: `#1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-1.txt>`__,
+         `#2 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/08X-cis301-natural-deduction-or-2.txt>`__ ] 
    * - 4. U: Sep 17
      - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXOGVyYmNSYmFxd00>`__
          [ ndpc: `#1 <https://drive.google.com/open?id=0B3opDhlww1AXYlR2ZHhhYmJBR1U>`__,
@@ -112,7 +113,11 @@ Schedule
      - **Exam 1**
      - `References <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Review/cis301-exam-1-refs.pdf>`__
    * - 6. U: Oct 1
-     - * Curry-Howard Isomorphism
+     - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXV2FrdFRzeV84SVk>`__
+         [ examples: 
+         `scala <https://drive.google.com/open?id=0B3opDhlww1AXNV9FVXhzQjFQb28>`__,
+         `python <https://drive.google.com/open?id=0B3opDhlww1AXWGYwU1FpTDhXNUU>`__,
+         `java <https://drive.google.com/open?id=0B3opDhlww1AXaWJiSVRvRWpuc00>`__ ]
      - 
    * - 7. T: Oct 6
      - * Sets and Relations
