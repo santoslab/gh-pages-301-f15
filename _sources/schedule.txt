@@ -120,18 +120,19 @@ Schedule
          `java <https://drive.google.com/open?id=0B3opDhlww1AXaWJiSVRvRWpuc00>`__ ]
      - 
    * - 7. T: Oct 6
-     - * Sets and Relations
+     - * `Sets and Relations <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
      - * Reading: `Logic in Action: Appendix A. Sets, Relations and Functions <https://drive.google.com/open?id=0B3opDhlww1AXOEFJajZYYW9GTlU>`__ 
    * - 7. U: Oct 8
+     - * Sets and Relations (Continued)
+     - * Exercise
+   * - 8. T: Oct 13
      - * Introduction to Predicate Logic
      - * Reading: :ref:`predicate-logic` (up to Section 8.2)
        * Homework #5
-   * - 8. T: Oct 13
-     - * Alloy for Predicate Logic
-     - 
    * - 8. U: Oct 15
-     - * Alloy -- Structures and Relations
-     - 
+     - * Alloy for Predicate Logic
+       * Alloy -- Structures and Relations
+     -      
    * - 9. T: Oct 20
      - * Alloy -- Relations and Operations
      - 
