@@ -123,8 +123,8 @@ Schedule
      - * `Sets and Relations <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
      - * Reading: `Logic in Action: Appendix A. Sets, Relations and Functions <https://drive.google.com/open?id=0B3opDhlww1AXOEFJajZYYW9GTlU>`__ 
    * - 7. U: Oct 8
-     - * Sets and Relations (Continued)
-     - * Exercise
+     - * `Sets and Relations (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
+     - * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/12X-cis301-sets-relations.pdf>`__
    * - 8. T: Oct 13
      - * Introduction to Predicate Logic
      - * Reading: :ref:`predicate-logic` (up to Section 8.2)
