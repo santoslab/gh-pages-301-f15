@@ -126,21 +126,22 @@ Schedule
      - * `Sets and Relations (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXeWt1NzBoUEJ0V2c>`__
      - * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/12X-cis301-sets-relations.pdf>`__
    * - 8. T: Oct 13
-     - * Introduction to Predicate Logic
+     - * `Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXY1phU1dOQ0hEWHM>`__ 
+     - * Reading: :ref:`predicate-logic` (up to Section 8.2)
+   * - 8. U: Oct 15
+     - * Predicate Logic (Continued)
      - * Reading: :ref:`predicate-logic` (up to Section 8.2)
        * Homework #5
-   * - 8. U: Oct 15
-     - * Alloy for Predicate Logic
-       * Alloy -- Structures and Relations
-     -      
    * - 9. T: Oct 20
-     - * Alloy -- Relations and Operations
+     - * Alloy for Predicate Logic
+       * Alloy -- Structures and Relations 
      - 
    * - 9. U: Oct 22
-     - * Alloy -- Logical Constraints
+     - * Alloy -- Relations and Operations 
      - 
    * - 10. T: Oct 27
-     - * Alloy -- Example (Basic)
+     - * Alloy -- Logical Constraints
+       * Alloy -- Example (Basic)
      - * Homework #6
    * - 10. U: Oct 29
      - * Algebra
