@@ -131,15 +131,15 @@ Schedule
    * - 8. U: Oct 15
      - * `Predicate Logic (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXY1phU1dOQ0hEWHM>`__
          [ ndpc: 
-         `1 <https://drive.google.com/open?id=0B3opDhlww1AXeUl5LW0tMF95MnM>`__,
-         `2 <https://drive.google.com/open?id=0B3opDhlww1AXNk55OHFUc0w4RUk>`__,
-         `3 <https://drive.google.com/open?id=0B3opDhlww1AXeFV5eGhPaE9Ec0E>`__,
-         `4 <https://drive.google.com/open?id=0B3opDhlww1AXMllfZTRKNm5xRmM>`__,
-         `5 <https://drive.google.com/open?id=0B3opDhlww1AXMmxMZE1wdjRtdDg>`__,
-         `6 <https://drive.google.com/open?id=0B3opDhlww1AXekljQ21IYTEwcGs>`__,
-         `7 <https://drive.google.com/open?id=0B3opDhlww1AXM0ZxUW81MkZVX2M>`__,
-         `8 <https://drive.google.com/open?id=0B3opDhlww1AXRUhkdjh5VERNSUU>`__,
-         `9 <https://drive.google.com/open?id=0B3opDhlww1AXYWdLV1JlcmdhNEE>`__;
+         `#1 <https://drive.google.com/open?id=0B3opDhlww1AXeUl5LW0tMF95MnM>`__,
+         `#2 <https://drive.google.com/open?id=0B3opDhlww1AXNk55OHFUc0w4RUk>`__,
+         `#3 <https://drive.google.com/open?id=0B3opDhlww1AXeFV5eGhPaE9Ec0E>`__,
+         `#4 <https://drive.google.com/open?id=0B3opDhlww1AXMllfZTRKNm5xRmM>`__,
+         `#5 <https://drive.google.com/open?id=0B3opDhlww1AXMmxMZE1wdjRtdDg>`__,
+         `#6 <https://drive.google.com/open?id=0B3opDhlww1AXekljQ21IYTEwcGs>`__,
+         `#7 <https://drive.google.com/open?id=0B3opDhlww1AXM0ZxUW81MkZVX2M>`__,
+         `#8 <https://drive.google.com/open?id=0B3opDhlww1AXRUhkdjh5VERNSUU>`__,
+         `#9 <https://drive.google.com/open?id=0B3opDhlww1AXYWdLV1JlcmdhNEE>`__;
          `z3 <https://drive.google.com/open?id=0B3opDhlww1AXZnFLTXlrcHgyQ0U>`__ ]
      - * Reading: :ref:`predicate-logic` (up to Section 8.2)
        * Homework #5 (|KSOL|, **due on Oct 28, 2015 at 11:55pm US Central**)
