@@ -144,11 +144,16 @@ Schedule
      - * Reading: :ref:`predicate-logic` (up to Section 8.2)
        * Homework #5 (|KSOL|, **due on Oct 28, 2015 at 11:55pm US Central**)
    * - 9. T: Oct 20
-     - * Alloy for Predicate Logic
-       * Alloy -- Structures and Relations 
-     - 
+     - * `Introduction to Alloy <https://drive.google.com/open?id=0B3opDhlww1AXQzFhMFVpazBiemc>`__
+         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXMENPbUpIZEt5amM>`__ ]
+     - * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/13X-cis301-predicate-logic.pdf>`__
+         [ ndpc: 
+         `#1 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/13X-cis301-predicate-logic-1.txt>`__,
+         `#2 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/13X-cis301-predicate-logic-2.txt>`__,
+         `#3 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/13X-cis301-predicate-logic-3.txt>`__ ]
    * - 9. U: Oct 22
-     - * Alloy -- Relations and Operations 
+     - * Alloy -- Structures and Relations
+       * Alloy -- Relations and Operations 
      - 
    * - 10. T: Oct 27
      - * Alloy -- Logical Constraints
