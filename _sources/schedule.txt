@@ -153,21 +153,19 @@ Schedule
          `#3 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/13X-cis301-predicate-logic-3.txt>`__ ]
    * - 9. U: Oct 22
      - * Alloy -- Structures and Relations
-       * Alloy -- Relations and Operations 
      - 
    * - 10. T: Oct 27
-     - * Alloy -- Logical Constraints
-       * Alloy -- Example (Basic)
-     - * Homework #6
+     - * Alloy -- Relations and Operations
+     - 
    * - 10. U: Oct 29
+     - * Alloy -- Logical Constraints
+     - * Homework #6
+   * - 11. T: Nov 3
+     - * Alloy -- Example (Basic)
+     -
+   * - 11. U: Nov 5
      - * Algebra
      - * Reading: :ref:`algebra`
-   * - 11. T: Nov 3
-     - * Programming Logic for Assignment Statements
-     - * Reading: :ref:`programming-logic` (up to Section 4.1)
-   * - 11. U: Nov 5
-     - * Programming Logic for Conditionals
-     - * Reading: :ref:`programming-logic` (Section 4.2)
    * - 12. T: Nov 10
      - Review 2
      - 
@@ -175,11 +173,12 @@ Schedule
      - **Exam 2**
      - 
    * - 13. T: Nov 17
-     - * Program Logic in Real World Applications
-     - * Homework #7
+     - * Programming Logic for Assignment Statements
+     - * Reading: :ref:`programming-logic` (up to Section 4.1)
    * - 13. U: Nov 19
-     - * Functions and Procedures
-     - * Reading: :ref:`functions-procedures`
+     - * Programming Logic for Conditionals
+     - * Reading: :ref:`programming-logic` (Section 4.2)
+       * Homework #7
    * - A. T: Nov 24
      - *No Lecture*
      - **Thanksgiving Break**
@@ -187,17 +186,18 @@ Schedule
      - *No Lecture*
      - **Thanksgiving Break**
    * - 14. T: Dec 1
+     - * Functions and Procedures
+     - * Reading: :ref:`functions-procedures`
+   * - 14. U: Dec 3
      - * Functions to Loops
      - * Reading: :ref:`loops-invariants-induction`
-   * - 14. U: Dec 3
+   * - 15. T: Dec 8
      - * Loops, Invariants, and Induction
      - * Reading: :ref:`loops-invariants-induction`
-   * - 15. T: Dec 8
-     - * Introduction To Prolog
-     - 
    * - 15. U: Dec 10
-     - Review 3
-     - 
+     - * Program Logic in Real World Applications
+       * Review 3
+     -
    * - 16. T: Dec 15
      - **Final Exam** (`K-State Final Exam Schedule <http://courses.k-state.edu/fall2015/information/xam.html>`__)
      - **Time:** 9:40am - 11:30am
