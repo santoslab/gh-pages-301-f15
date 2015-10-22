@@ -152,10 +152,15 @@ Schedule
          `#2 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/13X-cis301-predicate-logic-2.txt>`__,
          `#3 <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/13X-cis301-predicate-logic-3.txt>`__ ]
    * - 9. U: Oct 22
-     - * Alloy -- Structures and Relations
+     - * `Introduction to Alloy (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXQzFhMFVpazBiemc>`__
+         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXMENPbUpIZEt5amM>`__ ]
+       * `Alloy -- Structures and Relations <https://drive.google.com/open?id=0B3opDhlww1AXSWZJMXZ3N2Yxem8>`__
+         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXM0k2V1o0WHAxOVE>`__ ]
+       * `Alloy -- Relations and Operations <https://drive.google.com/open?id=0B3opDhlww1AXTHRPM1QzVl9tb2c>`__
+         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXWDl4YjNrTnZsdTg>`__ ]
      - 
    * - 10. T: Oct 27
-     - * Alloy -- Relations and Operations
+     - * Alloy -- Relations and Operations (Continued)
      - 
    * - 10. U: Oct 29
      - * Alloy -- Logical Constraints
