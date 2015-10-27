@@ -160,7 +160,9 @@ Schedule
          [ `example <https://drive.google.com/open?id=0B3opDhlww1AXWDl4YjNrTnZsdTg>`__ ]
      - 
    * - 10. T: Oct 27
-     - * Alloy -- Relations and Operations (Continued)
+     - * `Alloy -- Relations and Operations <https://drive.google.com/open?id=0B3opDhlww1AXTHRPM1QzVl9tb2c>`__
+         [ `example <https://drive.google.com/open?id=0B3opDhlww1AXWDl4YjNrTnZsdTg>`__,
+         `tic-tac-toe <https://drive.google.com/open?id=0B3opDhlww1AXQkp1WDdlX0dhbnM>`__ ]
      - 
    * - 10. U: Oct 29
      - * Alloy -- Logical Constraints
