@@ -87,7 +87,7 @@ existential quantifiers from predicate logic.
 
 * `Web page <http://alloy.mit.edu/alloy/>`__
 * `Tutorial <http://alloy.mit.edu/alloy/tutorials/online/>`__
-
+* `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
 
 Proof Checker for Floyd-Hoare Program Logic
 *******************************************

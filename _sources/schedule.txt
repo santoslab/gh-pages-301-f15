@@ -171,7 +171,7 @@ Schedule
      - * - `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
          - Homework #6 (|KSOL|, **due on Nov 18, 2015 at 11:55pm US Central**)
    * - 11. T: Nov 3
-     - * Alloy -- Example (Basic)
+     - * Alloy -- Example
      -
    * - 11. U: Nov 5
      - * Algebra
