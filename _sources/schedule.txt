@@ -171,14 +171,14 @@ Schedule
      - * - `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
          - Homework #6 (|KSOL|, **due on Nov 18, 2015 at 11:55pm US Central**)
    * - 11. T: Nov 3
-     - * Alloy -- Example
+     - * `Alloy -- Example: Tic-Tac-Toe (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXQkp1WDdlX0dhbnM>`__
      -
    * - 11. U: Nov 5
-     - * Algebra
-     - * Reading: :ref:`algebra`
-   * - 12. T: Nov 10
      - Review 2
      - 
+   * - 12. T: Nov 10
+     - * Algebra
+     - * Reading: :ref:`algebra`
    * - 12. U: Nov 12
      - **Exam 2**
      - 
