@@ -100,28 +100,26 @@ Please read `Installing Python <https://www.googledrive.com/host/0B3opDhlww1AXcj
 to learn how to check for Python on your machine, install it if needed, and
 later use it to develop software.
 Download the checker tool to your computer: 
-`proof-checker-floyd-hoare.zip <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/proof-checker-floyd-hoare.zip>`__
-(note: click |download-icon| at the top center page toolbar to download the 
-zip file). 
+`cis301.zip <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/cis301.zip>`__.
 
 Read the following files that are contained in the zip file:
 
-* `proof-checker-floyd-hoare/README.txt <https://www.googledrive.com/host/0B3opDhlww1AXckJpM3l5SEdSdVE>`__
+* ``README.txt``
 
-* `proof-checker-floyd-hoare/howtoinstall.html <https://www.googledrive.com/host/0B3opDhlww1AXVjhveTg5clhqZkE>`__ 
+* ``checker.html`` 
   -- the installation guide to learn how to install the checker
   
-* `proof-checker-floyd-hoare/howtocheck.html <https://www.googledrive.com/host/0B3opDhlww1AXbS1YS1FIZ1NDVG8>`__ 
+* ``howtocheck.html`` 
   -- the beginner's guide to using the checker
 
-* `proof-checker-floyd-hoare/FORMAL DOCUMENTATION.txt <https://www.googledrive.com/host/0B3opDhlww1AXeHVBdDdvLXllekE>`__ 
+* ``DOC.txt`` 
   -- defines precisely the language understood by the checker; it also includes
   a series of progressively more challenging examples that the checker will
   analyze and approve.
 
 
-Python
-******
+Python (v2.7)
+*************
 
 Python is a dynamically-typed and structured language rather than a static one 
 like Java or C#.
