@@ -100,7 +100,7 @@ Please read `Installing Python <https://www.googledrive.com/host/0B3opDhlww1AXcj
 to learn how to check for Python on your machine, install it if needed, and
 later use it to develop software.
 Download the checker tool to your computer: 
-`proof-checker-floyd-hoare.zip <https://drive.google.com/open?id=0B3opDhlww1AXNUgyTE1icjN1b3M>`__
+`proof-checker-floyd-hoare.zip <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/proof-checker-floyd-hoare.zip>`__
 (note: click |download-icon| at the top center page toolbar to download the 
 zip file). 
 
