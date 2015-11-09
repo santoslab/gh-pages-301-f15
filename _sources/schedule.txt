@@ -181,7 +181,7 @@ Schedule
      - * Reading: :ref:`algebra`
    * - 12. U: Nov 12
      - **Exam 2**
-     - 
+     - `References <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Review/cis301-exam-2-refs.pdf>`__
    * - 13. T: Nov 17
      - * Programming Logic for Assignment Statements
      - * Reading: :ref:`programming-logic` (up to Section 4.1)
