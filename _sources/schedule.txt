@@ -177,7 +177,7 @@ Schedule
      - Review 2
      - * `Exercise <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Exercise/cis301X-alloy-tictactoe-alt.als>`__
    * - 12. T: Nov 10
-     - * Algebra
+     - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXMWpjQ0NWc2xQOG8>`__
      - * Reading: :ref:`algebra`
    * - 12. U: Nov 12
      - **Exam 2**
