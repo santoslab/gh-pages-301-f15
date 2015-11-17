@@ -168,8 +168,8 @@ Schedule
      - * `Alloy -- Logical Constraints <https://drive.google.com/open?id=0B3opDhlww1AXU0xxNjktMHR4aWM>`__
          [ `example <https://drive.google.com/open?id=0B3opDhlww1AXR21XRnpnbFI4cVE>`__,
          `tic-tac-toe (continued) <https://drive.google.com/open?id=0B3opDhlww1AXQkp1WDdlX0dhbnM>`__ ]
-     - * - `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
-         - Homework #6 (|KSOL|, **due on Nov 18, 2015 at 11:55pm US Central**)
+     - * `Alloy Quick References <https://drive.google.com/open?id=0B3opDhlww1AXajc5VHpYcHR4c2c>`__
+       * Homework #6 (|KSOL|, **due on Nov 18, 2015 at 11:55pm US Central**)
    * - 11. T: Nov 3
      - * `Alloy -- Example: Tic-Tac-Toe (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXQkp1WDdlX0dhbnM>`__
      -
@@ -183,7 +183,9 @@ Schedule
      - **Exam 2**
      - `References <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Review/cis301-exam-2-refs.pdf>`__
    * - 13. T: Nov 17
-     - * Programming Logic for Assignment Statements
+     - * `Programming Logic for Assignment Statements <https://drive.google.com/open?id=0B3opDhlww1AXUXBLSlhkY1FyVFk>`__
+         [ examples: `mac/linux <https://drive.google.com/open?id=0B3opDhlww1AXMDAta1lqQnZkUDg>`__,
+         `windows <https://drive.google.com/open?id=0B3opDhlww1AXZmc1ZUtuMHFqd3M>`__ ]
      - * Reading: :ref:`programming-logic` (up to Section 4.1)
        * Tutorial: `Floyd-Hoare Program Logic Proof Checker <https://drive.google.com/open?id=0B3opDhlww1AXSHRQcHowTU5EN0U>`__
    * - 13. U: Nov 19
