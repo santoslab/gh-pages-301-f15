@@ -189,7 +189,8 @@ Schedule
      - * Reading: :ref:`programming-logic` (up to Section 4.1)
        * Tutorial: `Floyd-Hoare Program Logic Proof Checker <https://drive.google.com/open?id=0B3opDhlww1AXSHRQcHowTU5EN0U>`__
    * - 13. U: Nov 19
-     - * Programming Logic for Conditionals
+     - * Programming Logic for Assignment Statements (Continued)
+       * Programming Logic for Conditionals
      - * Reading: :ref:`programming-logic` (Section 4.2)
        * Homework #7
    * - A. T: Nov 24
