@@ -191,8 +191,9 @@ Schedule
    * - 13. U: Nov 19
      - * Programming Logic for Assignment Statements (Continued)
        * Programming Logic for Conditionals
+       * `Programming Logic in Real World Applications <https://drive.google.com/open?id=0B3opDhlww1AXdHhlVFZ1M2lVaFU>`__
      - * Reading: :ref:`programming-logic` (Section 4.2)
-       * Homework #7
+       * Homework #7 (|KSOL|, **due on Dec 9, 2015 at 11:55pm US Central**)
    * - A. T: Nov 24
      - *No Lecture*
      - **Thanksgiving Break**
@@ -209,12 +210,10 @@ Schedule
      - * Loops, Invariants, and Induction
      - * Reading: :ref:`loops-invariants-induction`
    * - 15. U: Dec 10
-     - * Program Logic in Real World Applications
-       * Review 3
+     - * Review 3
      -
    * - 16. T: Dec 15
      - **Final Exam** (`K-State Final Exam Schedule <http://courses.k-state.edu/fall2015/information/xam.html>`__)
      - **Time:** 9:40am - 11:30am
    
 ----
-   
