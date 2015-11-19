@@ -189,8 +189,10 @@ Schedule
      - * Reading: :ref:`programming-logic` (up to Section 4.1)
        * Tutorial: `Floyd-Hoare Program Logic Proof Checker <https://drive.google.com/open?id=0B3opDhlww1AXSHRQcHowTU5EN0U>`__
    * - 13. U: Nov 19
-     - * Programming Logic for Assignment Statements (Continued)
-       * Programming Logic for Conditionals
+     - * `Programming Logic for Assignment Statements (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXUXBLSlhkY1FyVFk>`__
+       * `Programming Logic for Conditionals <https://drive.google.com/open?id=0B3opDhlww1AXclRaZng0RDRpWnM>`__
+         [ example: `mac/linux <https://drive.google.com/open?id=0B3opDhlww1AXaVp4NHBXbWRyelU>`__, 
+         `windows <https://drive.google.com/open?id=0B3opDhlww1AXSDBILVc3R3htVzQ>`__ ] 
        * `Programming Logic in Real World Applications <https://drive.google.com/open?id=0B3opDhlww1AXdHhlVFZ1M2lVaFU>`__
      - * Reading: :ref:`programming-logic` (Section 4.2)
        * Homework #7 (|KSOL|, **due on Dec 9, 2015 at 11:55pm US Central**)
@@ -210,7 +212,7 @@ Schedule
      - * Loops, Invariants, and Induction
      - * Reading: :ref:`loops-invariants-induction`
    * - 15. U: Dec 10
-     - * Review 3
+     - Review 3
      -
    * - 16. T: Dec 15
      - **Final Exam** (`K-State Final Exam Schedule <http://courses.k-state.edu/fall2015/information/xam.html>`__)
