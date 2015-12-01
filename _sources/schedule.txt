@@ -203,10 +203,13 @@ Schedule
      - *No Lecture*
      - **Thanksgiving Break**
    * - 14. T: Dec 1
-     - * Functions and Procedures
+     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXa1QxWktNa1cwNW8>`__
+         [ examples: `mac/linux <https://drive.google.com/open?id=0B3opDhlww1AXbXNMMDFFODVPaWs>`__,
+         `windows <https://drive.google.com/open?id=0B3opDhlww1AXbkFFdFA2Yjl5MlU>`__ ]
      - * Reading: :ref:`functions-procedures`
    * - 14. U: Dec 3
-     - * Functions to Loops
+     - * Functions and Procedures (Continued)
+       * Functions to Loops
      - * Reading: :ref:`loops-invariants-induction`
    * - 15. T: Dec 8
      - * Loops, Invariants, and Induction
