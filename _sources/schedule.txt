@@ -208,8 +208,12 @@ Schedule
          `windows <https://drive.google.com/open?id=0B3opDhlww1AXbkFFdFA2Yjl5MlU>`__ ]
      - * Reading: :ref:`functions-procedures`
    * - 14. U: Dec 3
-     - * Functions and Procedures (Continued)
-       * Functions to Loops
+     - * `Functions and Procedures (Continued) <https://drive.google.com/open?id=0B3opDhlww1AXa1QxWktNa1cwNW8>`__
+         [ examples: `mac/linux <https://drive.google.com/open?id=0B3opDhlww1AXbXNMMDFFODVPaWs>`__,
+         `windows <https://drive.google.com/open?id=0B3opDhlww1AXbkFFdFA2Yjl5MlU>`__ ]
+       * `Functions to Loops <https://drive.google.com/open?id=0B3opDhlww1AXMnhzYWkwVHlJems>`__
+         [ examples: `mac/linux <https://drive.google.com/open?id=0B3opDhlww1AXZTRrTFB4Y0pnU3M>`__,
+         `windows <https://drive.google.com/open?id=0B3opDhlww1AXZmxkaTl5NFZ6NFk>`__ ]
      - * Reading: :ref:`loops-invariants-induction`
    * - 15. T: Dec 8
      - * Loops, Invariants, and Induction
