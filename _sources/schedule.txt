@@ -216,7 +216,10 @@ Schedule
          `windows <https://drive.google.com/open?id=0B3opDhlww1AXZmxkaTl5NFZ6NFk>`__ ]
      - * Reading: :ref:`loops-invariants-induction`
    * - 15. T: Dec 8
-     - * Loops, Invariants, and Induction
+     - * Program Logic Examples
+         [ `mac/linux <https://drive.google.com/open?id=0B3opDhlww1AXQWNBQXdkMmZUSzQ>`__,
+         `windows <https://drive.google.com/open?id=0B3opDhlww1AXTElsNzBsam9kVUU>`__ ]
+       * :ref:`induction`
      - * Reading: :ref:`loops-invariants-induction`
    * - 15. U: Dec 10
      - Review 3
