@@ -225,7 +225,7 @@ Schedule
      - Review 3
      -
    * - 16. T: Dec 15
-     - **Final Exam** (`K-State Final Exam Schedule <http://courses.k-state.edu/fall2015/information/xam.html>`__)
-     - **Time:** 9:40am - 11:30am
+     - **Final Exam Time: 9:40am - 11:30am** (`K-State Final Exam Schedule <http://courses.k-state.edu/fall2015/information/xam.html>`__)
+     - `References <https://online.ksu.edu/COMS/player/content/CIS_301_ROBBY/content/Modules/Review/cis301-final-exam-refs.pdf>`__
    
 ----
